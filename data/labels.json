@@ -1,0 +1,163 @@
+{
+ "top20_share_pct": 11.7,
+ "labels_total": 21240,
+ "top20": [
+  {
+   "label": "Sub Pop",
+   "limited": 394,
+   "releases": 1184,
+   "limited_pct": 33.3
+  },
+  {
+   "label": "Polyvinyl Record Company",
+   "limited": 342,
+   "releases": 811,
+   "limited_pct": 42.2
+  },
+  {
+   "label": "Domino",
+   "limited": 232,
+   "releases": 1100,
+   "limited_pct": 21.1
+  },
+  {
+   "label": "Merge Records",
+   "limited": 215,
+   "releases": 607,
+   "limited_pct": 35.4
+  },
+  {
+   "label": "Matador",
+   "limited": 208,
+   "releases": 941,
+   "limited_pct": 22.1
+  },
+  {
+   "label": "Run For Cover Records",
+   "limited": 202,
+   "releases": 463,
+   "limited_pct": 43.6
+  },
+  {
+   "label": "Captured Tracks",
+   "limited": 182,
+   "releases": 377,
+   "limited_pct": 48.3
+  },
+  {
+   "label": "Suicide Squeeze",
+   "limited": 175,
+   "releases": 282,
+   "limited_pct": 62.1
+  },
+  {
+   "label": "Topshelf Records",
+   "limited": 163,
+   "releases": 506,
+   "limited_pct": 32.2
+  },
+  {
+   "label": "Columbia",
+   "limited": 157,
+   "releases": 560,
+   "limited_pct": 28.0
+  },
+  {
+   "label": "Island Records",
+   "limited": 155,
+   "releases": 520,
+   "limited_pct": 29.8
+  },
+  {
+   "label": "Joyful Noise Recordings",
+   "limited": 154,
+   "releases": 358,
+   "limited_pct": 43.0
+  },
+  {
+   "label": "Dead Oceans",
+   "limited": 153,
+   "releases": 323,
+   "limited_pct": 47.4
+  },
+  {
+   "label": "Polydor",
+   "limited": 138,
+   "releases": 538,
+   "limited_pct": 25.7
+  },
+  {
+   "label": "4AD",
+   "limited": 137,
+   "releases": 692,
+   "limited_pct": 19.8
+  },
+  {
+   "label": "Secretly Canadian",
+   "limited": 134,
+   "releases": 338,
+   "limited_pct": 39.6
+  },
+  {
+   "label": "Saddle Creek",
+   "limited": 132,
+   "releases": 346,
+   "limited_pct": 38.2
+  },
+  {
+   "label": "Kill Rock Stars",
+   "limited": 129,
+   "releases": 400,
+   "limited_pct": 32.2
+  },
+  {
+   "label": "Dine Alone Records",
+   "limited": 127,
+   "releases": 247,
+   "limited_pct": 51.4
+  },
+  {
+   "label": "Music On Vinyl",
+   "limited": 125,
+   "releases": 269,
+   "limited_pct": 46.5
+  }
+ ],
+ "tiers_since_2015": [
+  {
+   "tier": "1-5 releases",
+   "releases": 12115,
+   "labels": 7583,
+   "limited_pct": 31.2
+  },
+  {
+   "tier": "6-50",
+   "releases": 15205,
+   "labels": 1707,
+   "limited_pct": 41.0
+  },
+  {
+   "tier": "51-500",
+   "releases": 16831,
+   "labels": 251,
+   "limited_pct": 42.8
+  },
+  {
+   "tier": "500+",
+   "releases": 3509,
+   "labels": 12,
+   "limited_pct": 42.5
+  },
+  {
+   "tier": "self-released",
+   "releases": 3874,
+   "labels": 1332,
+   "limited_pct": 29.4
+  }
+ ],
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-11"
+ }
+}

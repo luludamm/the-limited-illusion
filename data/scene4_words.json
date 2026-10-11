@@ -1,0 +1,71 @@
+{
+ "vague_limited_releases": 13859,
+ "words": [
+  {
+   "word": "COLOUR",
+   "tactic": "Material: colour or effect vinyl",
+   "releases": 9315,
+   "pct": 67.2
+  },
+  {
+   "word": "EXCLUSIVE",
+   "tactic": "Channel: exclusive (store / retailer / webstore)",
+   "releases": 1570,
+   "pct": 11.3
+  },
+  {
+   "word": "NUMBERED",
+   "tactic": "Ritual: numbered (no total given)",
+   "releases": 1557,
+   "pct": 11.2
+  },
+  {
+   "word": "SIGNED",
+   "tactic": "Ritual: signed / autographed",
+   "releases": 875,
+   "pct": 6.3
+  },
+  {
+   "word": "180 G",
+   "tactic": "Material: heavyweight 180 g",
+   "releases": 816,
+   "pct": 5.9
+  },
+  {
+   "word": "DELUXE",
+   "tactic": "Ritual: deluxe / special / collector's",
+   "releases": 547,
+   "pct": 3.9
+  },
+  {
+   "word": "ANNIVERSARY",
+   "tactic": "Ritual: anniversary",
+   "releases": 416,
+   "pct": 3.0
+  },
+  {
+   "word": "RECORD STORE DAY",
+   "tactic": "Channel: Record Store Day / Black Friday",
+   "releases": 378,
+   "pct": 2.7
+  },
+  {
+   "word": "TOUR ONLY",
+   "tactic": "Channel: tour / merch table",
+   "releases": 322,
+   "pct": 2.3
+  },
+  {
+   "word": "PRE-ORDER",
+   "tactic": "Ritual: pre-order / time window",
+   "releases": 275,
+   "pct": 2.0
+  }
+ ],
+ "none_pct": 21.7,
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-11"
+ }
+}

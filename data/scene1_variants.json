@@ -1,0 +1,325 @@
+{
+ "album": {
+  "artist": "Twenty One Pilots",
+  "title": "Breach",
+  "year": 2025,
+  "master_id": 3968810,
+  "versions": 29,
+  "designs": 21,
+  "limited": 18,
+  "with_colour_word": 22,
+  "countries": 5
+ },
+ "variants": [
+  {
+   "release_id": 35068217,
+   "country": "Europe",
+   "limited": false,
+   "description": "Red",
+   "colours": [
+    "Red"
+   ],
+   "design_key": "Album; LP | red"
+  },
+  {
+   "release_id": 35069486,
+   "country": "Europe",
+   "limited": true,
+   "description": "Departure",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | departure"
+  },
+  {
+   "release_id": 35073008,
+   "country": "Europe",
+   "limited": true,
+   "description": "Relive",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | relive"
+  },
+  {
+   "release_id": 35073956,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Blue Smoke",
+   "colours": [
+    "Blue",
+    "Grey / smoke"
+   ],
+   "design_key": "Album; LP | blue smoke"
+  },
+  {
+   "release_id": 35074088,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Focuser",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | focuser"
+  },
+  {
+   "release_id": 35074151,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Yellow, \"First Pressing Edition\"",
+   "colours": [
+    "Yellow"
+   ],
+   "design_key": "Album; LP; Limited Edition; Numbered | yellow, first pressing edition"
+  },
+  {
+   "release_id": 35074187,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Achtung",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | achtung"
+  },
+  {
+   "release_id": 35074241,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Relive",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | relive"
+  },
+  {
+   "release_id": 35074265,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Exalt",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | exalt"
+  },
+  {
+   "release_id": 35074625,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Red",
+   "colours": [
+    "Red"
+   ],
+   "design_key": "Album; LP | red"
+  },
+  {
+   "release_id": 35077994,
+   "country": "Europe",
+   "limited": true,
+   "description": "Black/White/Grey Marble [Recycled Phantom]",
+   "colours": [
+    "White",
+    "Black",
+    "Grey / smoke",
+    "Marble",
+    "Eco / recycled"
+   ],
+   "design_key": "Album; LP; Limited Edition | black/white/grey marble [recycled phantom]"
+  },
+  {
+   "release_id": 35079341,
+   "country": "Europe",
+   "limited": false,
+   "description": "Clear Glitter",
+   "colours": [
+    "Clear / transparent",
+    "Glitter"
+   ],
+   "design_key": "Album; LP | clear glitter"
+  },
+  {
+   "release_id": 35079566,
+   "country": "Worldwide",
+   "limited": true,
+   "description": "Black & Red Inkspill",
+   "colours": [
+    "Red",
+    "Black"
+   ],
+   "design_key": "Album; LP; Limited Edition | black & red inkspill"
+  },
+  {
+   "release_id": 35081330,
+   "country": "Europe",
+   "limited": false,
+   "description": "Yellow with Black Marble",
+   "colours": [
+    "Black",
+    "Yellow",
+    "Marble"
+   ],
+   "design_key": "Album; LP; Stereo | yellow with black marble"
+  },
+  {
+   "release_id": 35083754,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Red & Yellow Split With Black Splatter [Hazard Splatter]",
+   "colours": [
+    "Red",
+    "Black",
+    "Yellow",
+    "Splatter"
+   ],
+   "design_key": "Album; LP; Limited Edition; Stereo | red & yellow split with black splatter [hazard splatter]"
+  },
+  {
+   "release_id": 35084837,
+   "country": "Europe",
+   "limited": true,
+   "description": "Exalt",
+   "colours": [],
+   "design_key": "Album; LP; Limited Edition; Picture Disc; Stereo | exalt"
+  },
+  {
+   "release_id": 35087402,
+   "country": "Europe",
+   "limited": true,
+   "description": "Red & Yellow Split With Black Splatter (Hazard Splatter)",
+   "colours": [
+    "Red",
+    "Black",
+    "Yellow",
+    "Splatter"
+   ],
+   "design_key": "Album; LP; Limited Edition; Stereo | red & yellow split with black splatter [hazard splatter]"
+  },
+  {
+   "release_id": 35087507,
+   "country": "Worldwide",
+   "limited": true,
+   "description": "Black & Yellow Splatter (Combustor)",
+   "colours": [
+    "Black",
+    "Yellow",
+    "Splatter"
+   ],
+   "design_key": "Album; LP; Limited Edition; Stereo | black & yellow splatter [combustor]"
+  },
+  {
+   "release_id": 35087603,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Black/White/Grey Marble [Recycled Phantom]",
+   "colours": [
+    "White",
+    "Black",
+    "Grey / smoke",
+    "Marble",
+    "Eco / recycled"
+   ],
+   "design_key": "Album; LP; Limited Edition | black/white/grey marble [recycled phantom]"
+  },
+  {
+   "release_id": 35087612,
+   "country": "USA & Canada",
+   "limited": true,
+   "description": "Blue Inferno",
+   "colours": [
+    "Blue"
+   ],
+   "design_key": "Album; LP; Limited Edition | blue inferno"
+  },
+  {
+   "release_id": 35087621,
+   "country": "Europe",
+   "limited": true,
+   "description": "Blue Inferno",
+   "colours": [
+    "Blue"
+   ],
+   "design_key": "Album; LP; Limited Edition | blue inferno"
+  },
+  {
+   "release_id": 35093288,
+   "country": "US",
+   "limited": false,
+   "description": "Red & Black Blend [Crimson Curse]",
+   "colours": [
+    "Red",
+    "Black"
+   ],
+   "design_key": "Album; LP | red & black blend [crimson curse]"
+  },
+  {
+   "release_id": 35107349,
+   "country": "UK",
+   "limited": true,
+   "description": "Black & White (Translucent) Marble [Hallucination White]",
+   "colours": [
+    "Clear / transparent",
+    "White",
+    "Black",
+    "Marble"
+   ],
+   "design_key": "Album; LP; Limited Edition; Numbered | black & white [translucent] marble [hallucination white]"
+  },
+  {
+   "release_id": 35107880,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Purple [Opaque Orchid]",
+   "colours": [
+    "Purple / violet"
+   ],
+   "design_key": "Album; LP | purple [opaque orchid]"
+  },
+  {
+   "release_id": 35111024,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Black Smoke",
+   "colours": [
+    "Black",
+    "Grey / smoke"
+   ],
+   "design_key": "Album; LP; Stereo | black smoke"
+  },
+  {
+   "release_id": 35198611,
+   "country": "Europe",
+   "limited": true,
+   "description": "Yellow, \"First Pressing Edition\"",
+   "colours": [
+    "Yellow"
+   ],
+   "design_key": "Album; LP; Limited Edition; Numbered | yellow, first pressing edition"
+  },
+  {
+   "release_id": 35242786,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Clear Glitter",
+   "colours": [
+    "Clear / transparent",
+    "Glitter"
+   ],
+   "design_key": "Album; LP | clear glitter"
+  },
+  {
+   "release_id": 35260495,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Silver Glitter",
+   "colours": [
+    "Silver",
+    "Glitter"
+   ],
+   "design_key": "Album; LP | silver glitter"
+  },
+  {
+   "release_id": 36711166,
+   "country": "USA & Canada",
+   "limited": false,
+   "description": "Blue Smoke Release Day Exclusive Slip-cover",
+   "colours": [
+    "Blue",
+    "Grey / smoke"
+   ],
+   "design_key": "Album; LP | blue smoke release day exclusive slip-cover"
+  }
+ ],
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-11"
+ }
+}

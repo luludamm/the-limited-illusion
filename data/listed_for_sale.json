@@ -1,0 +1,28 @@
+{
+ "median_listed_share_pct": {
+  "limited_number": 2.1,
+  "limited_vague": 1.8,
+  "standard": 1.8
+ },
+ "all_limited_listed_more_pct": 42.1,
+ "limited_number": {
+  "versions": 86,
+  "albums": 53,
+  "listed_more_pct": 50.0,
+  "ci_low": 39.5,
+  "ci_high": 60.5
+ },
+ "limited_vague": {
+  "versions": 116,
+  "albums": 58,
+  "listed_more_pct": 36.2,
+  "ci_low": 27.6,
+  "ci_high": 44.8
+ },
+ "have_zero_left_out": 4,
+ "meta": {
+  "source": "Discogs API, album versions collected 3 Oct 2026 (Indie Rock, Vinyl)",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-11"
+ }
+}
