@@ -1,0 +1,743 @@
+{
+ "album": {
+  "artist": "Wolf Alice",
+  "title": "The Clearing",
+  "year": 2025,
+  "master_id": 3944270
+ },
+ "versions": [
+  {
+   "version_id": 34869839,
+   "format": "LP, Album, Stereo",
+   "format_text": "",
+   "have": 2678,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B7",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B8",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B9",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B10",
+     "title": "White Horses"
+    },
+    {
+     "position": "B11",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34899545,
+   "format": "LP, Album, Limited Edition",
+   "format_text": "Flower Filled Edition",
+   "have": 1881,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B7",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B8",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B9",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B10",
+     "title": "White Horses"
+    },
+    {
+     "position": "B11",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34874774,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Bone",
+   "have": 1554,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34890353,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Alternative cover, Clear blue",
+   "have": 1130,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34883276,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Apricot",
+   "have": 785,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 35795935,
+   "format": "LP, Album, Limited Edition, Reissue, Stereo",
+   "format_text": "Flower Filled, Alternative Cover",
+   "have": 640,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34946594,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Coke Bottle Clear, Signed Insert",
+   "have": 486,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 34890896,
+   "format": "LP, Album, Limited Edition, Picture Disc",
+   "format_text": "",
+   "have": 357,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 35441635,
+   "format": "LP, Album, Limited Edition",
+   "format_text": "Alternative Cover, Coke Bottle Clear",
+   "have": 311,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 35365033,
+   "format": "LP, Album, Stereo",
+   "format_text": "",
+   "have": 108,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B7",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B8",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B9",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B10",
+     "title": "White Horses"
+    },
+    {
+     "position": "B11",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 35510857,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Alternate Cover / Coke Bottle Clear",
+   "have": 27,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B7",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B8",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B9",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B10",
+     "title": "White Horses"
+    },
+    {
+     "position": "B11",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 36367780,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "format_text": "Mispackaging. Alternative Cover and Standard black vinyl",
+   "have": 7,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 35310601,
+   "format": "LP, Album, Limited Edition, Test Pressing, Stereo",
+   "format_text": "",
+   "have": 1,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B1",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B2",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B3",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B4",
+     "title": "White Horses"
+    },
+    {
+     "position": "B5",
+     "title": "The Sofa"
+    }
+   ]
+  },
+  {
+   "version_id": 38479476,
+   "format": "LP, Album, Stereo",
+   "format_text": " | Box Set",
+   "have": 1,
+   "tracks": [
+    {
+     "position": "A1",
+     "title": "Thorns"
+    },
+    {
+     "position": "A2",
+     "title": "Bloom Baby Bloom"
+    },
+    {
+     "position": "A3",
+     "title": "Just Two Girls"
+    },
+    {
+     "position": "A4",
+     "title": "Leaning Against The Wall"
+    },
+    {
+     "position": "A5",
+     "title": "Passenger Seat"
+    },
+    {
+     "position": "A6",
+     "title": "Play It Out"
+    },
+    {
+     "position": "B7",
+     "title": "Bread Butter Tea Sugar"
+    },
+    {
+     "position": "B8",
+     "title": "Safe In The World"
+    },
+    {
+     "position": "B9",
+     "title": "Midnight Song"
+    },
+    {
+     "position": "B10",
+     "title": "White Horses"
+    },
+    {
+     "position": "B11",
+     "title": "The Sofa"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "source": "Discogs API, album versions collected 3 Oct 2026, tracklists collected 11 Oct 2026 (Indie Rock, Vinyl)",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-12"
+ }
+}

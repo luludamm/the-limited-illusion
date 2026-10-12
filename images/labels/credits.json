@@ -1,0 +1,105 @@
+{
+ "_note": "Label logos from each label's Discogs page (Lulu, images/discogs/label-logos/), 240 px. Used in ch. 01 Fig 01b.",
+ "logos": [
+  {
+   "label": "Sub Pop",
+   "file": "sub-pop.jpg",
+   "source": "https://www.discogs.com/label/77343-Sub-Pop"
+  },
+  {
+   "label": "Polyvinyl Record Company",
+   "file": "polyvinyl-record-company.jpg",
+   "source": "https://www.discogs.com/label/37250-Polyvinyl-Record-Company"
+  },
+  {
+   "label": "Domino",
+   "file": "domino.jpg",
+   "source": "https://www.discogs.com/label/26465-Domino"
+  },
+  {
+   "label": "Merge Records",
+   "file": "merge-records.jpg",
+   "source": "https://www.discogs.com/label/7496-Merge-Records"
+  },
+  {
+   "label": "Matador",
+   "file": "matador.jpg",
+   "source": "https://www.discogs.com/label/194-Matador"
+  },
+  {
+   "label": "Run For Cover Records",
+   "file": "run-for-cover-records.jpg",
+   "source": "https://www.discogs.com/label/100674-Run-For-Cover-Records"
+  },
+  {
+   "label": "Captured Tracks",
+   "file": "captured-tracks.jpg",
+   "source": "https://www.discogs.com/label/134201-Captured-Tracks"
+  },
+  {
+   "label": "Suicide Squeeze",
+   "file": "suicide-squeeze.jpg",
+   "source": "https://www.discogs.com/label/39381-Suicide-Squeeze"
+  },
+  {
+   "label": "Topshelf Records",
+   "file": "topshelf-records.jpg",
+   "source": "https://www.discogs.com/label/96633-Topshelf-Records"
+  },
+  {
+   "label": "Columbia",
+   "file": "columbia.jpg",
+   "source": "https://www.discogs.com/label/1866-Columbia"
+  },
+  {
+   "label": "Island Records",
+   "file": "island-records.jpg",
+   "source": "https://www.discogs.com/label/8377-Island-Records"
+  },
+  {
+   "label": "Joyful Noise Recordings",
+   "file": "joyful-noise-recordings.jpg",
+   "source": "https://www.discogs.com/label/119541-Joyful-Noise-Recordings"
+  },
+  {
+   "label": "Dead Oceans",
+   "file": "dead-oceans.jpg",
+   "source": "https://www.discogs.com/label/94740-Dead-Oceans"
+  },
+  {
+   "label": "Polydor",
+   "file": "polydor.jpg",
+   "source": "https://www.discogs.com/label/1610-Polydor"
+  },
+  {
+   "label": "4AD",
+   "file": "4ad.jpg",
+   "source": "https://www.discogs.com/label/634-4AD"
+  },
+  {
+   "label": "Secretly Canadian",
+   "file": "secretly-canadian.jpg",
+   "source": "https://www.discogs.com/label/35538-Secretly-Canadian"
+  },
+  {
+   "label": "Saddle Creek",
+   "file": "saddle-creek.jpg",
+   "source": "https://www.discogs.com/label/19372-Saddle-Creek"
+  },
+  {
+   "label": "Kill Rock Stars",
+   "file": "kill-rock-stars.jpg",
+   "source": "https://www.discogs.com/label/5661-Kill-Rock-Stars"
+  },
+  {
+   "label": "Dine Alone Records",
+   "file": "dine-alone-records.jpg",
+   "source": "https://www.discogs.com/label/72083-Dine-Alone-Records"
+  },
+  {
+   "label": "Music On Vinyl",
+   "file": "music-on-vinyl.jpg",
+   "source": "https://www.discogs.com/label/169635-Music-On-Vinyl"
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "artist": "Olivia Rodrigo",
+ "tracks": [
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "drop dead",
+   "streaming_s": 224,
+   "vinyl_s": 224,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "stupid song",
+   "streaming_s": 209,
+   "vinyl_s": 209,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "honeybee",
+   "streaming_s": 223,
+   "vinyl_s": 189,
+   "cut_start_s": 184,
+   "cut_end_s": 218,
+   "change": "Ends with the solo piano chorus, no choral outro."
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "maggots for brains",
+   "streaming_s": 240,
+   "vinyl_s": 218,
+   "cut_start_s": 211,
+   "cut_end_s": 233,
+   "change": "Outro ends before the \"what can i do\" part."
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "u + me = <3",
+   "streaming_s": 248,
+   "vinyl_s": 228,
+   "cut_start_s": 166,
+   "cut_end_s": 186,
+   "change": "No bridge. Higher-energy breakdown (works as a new bridge)."
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "my way",
+   "streaming_s": 180,
+   "vinyl_s": 180,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "A",
+   "side_name": "girl so in love",
+   "track": "purple",
+   "streaming_s": 240,
+   "vinyl_s": 240,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "the cure",
+   "streaming_s": 297,
+   "vinyl_s": 269,
+   "cut_start_s": 267,
+   "cut_end_s": 295,
+   "change": "No string outro. Ends abruptly after the chorus."
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "begged",
+   "streaming_s": 217,
+   "vinyl_s": 217,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "what's wrong with me",
+   "streaming_s": 224,
+   "vinyl_s": 213,
+   "cut_start_s": 205,
+   "cut_end_s": 221,
+   "change": "Removed the repeated outro. Added a dying synth sound."
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "less",
+   "streaming_s": 193,
+   "vinyl_s": 193,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "expectations",
+   "streaming_s": 221,
+   "vinyl_s": 221,
+   "cut_start_s": null,
+   "cut_end_s": null,
+   "change": ""
+  },
+  {
+   "side": "B",
+   "side_name": "you seem pretty sad",
+   "track": "cigarette smoke",
+   "streaming_s": 340,
+   "vinyl_s": 310,
+   "cut_start_s": 305,
+   "cut_end_s": 335,
+   "change": "Outro cut after the first \"go dark\". No fade-out, ends with strong guitar hits."
+  }
+ ],
+ "meta": {
+  "source": "Reddit r/OliviaRodrigo, a fan's comparison of streaming and vinyl runtimes (https://www.reddit.com/r/OliviaRodrigo/comments/1u6ipni/), transcribed 12 Oct 2026",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-12"
+ }
+}
