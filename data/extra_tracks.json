@@ -1,0 +1,772 @@
+{
+ "examples": [
+  {
+   "master_id": 844093,
+   "standard": {
+    "release_id": 7091166,
+    "artist": "FFS",
+    "title": "FFS",
+    "year": 2015,
+    "format": "LP; Album; Limited Edition",
+    "colour_or_text": "White",
+    "country": "Europe",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Johnny Delusional"
+     },
+     {
+      "position": "A2",
+      "title": "Call Girl"
+     },
+     {
+      "position": "A3",
+      "title": "Dictator's Son"
+     },
+     {
+      "position": "A4",
+      "title": "Little Guy From The Suburbs"
+     },
+     {
+      "position": "B1",
+      "title": "Police Encounters"
+     },
+     {
+      "position": "B2",
+      "title": "Save Me From Myself"
+     },
+     {
+      "position": "B3",
+      "title": "Sõ Desu Ne"
+     },
+     {
+      "position": "B4",
+      "title": "The Man Without A Tan"
+     },
+     {
+      "position": "C1",
+      "title": "Things I Won't Get"
+     },
+     {
+      "position": "C2",
+      "title": "The Power Couple"
+     },
+     {
+      "position": "C3",
+      "title": "Collaborations Don't Work"
+     },
+     {
+      "position": "C4",
+      "title": "Piss Off"
+     },
+     {
+      "position": "D1",
+      "title": "So Many Bridges"
+     },
+     {
+      "position": "D2",
+      "title": "King Of The Song"
+     },
+     {
+      "position": "D3",
+      "title": "Look At Me"
+     },
+     {
+      "position": "D4",
+      "title": "A Violent Death"
+     }
+    ]
+   },
+   "limited": {
+    "release_id": 7094068,
+    "artist": "FFS",
+    "title": "FFS",
+    "year": 2015,
+    "format": "LP; Album; Limited Edition",
+    "colour_or_text": "Red",
+    "country": "Europe",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Johnny Delusional",
+      "kind": "same"
+     },
+     {
+      "position": "A2",
+      "title": "Call Girl",
+      "kind": "same"
+     },
+     {
+      "position": "A3",
+      "title": "Dictator's Son",
+      "kind": "same"
+     },
+     {
+      "position": "A4",
+      "title": "Little Guy From The Suburbs",
+      "kind": "same"
+     },
+     {
+      "position": "B1",
+      "title": "Police Encounters",
+      "kind": "same"
+     },
+     {
+      "position": "B2",
+      "title": "Save Me From Myself",
+      "kind": "same"
+     },
+     {
+      "position": "B3",
+      "title": "Sõ Desu Ne",
+      "kind": "same"
+     },
+     {
+      "position": "B4",
+      "title": "The Man Without A Tan",
+      "kind": "same"
+     },
+     {
+      "position": "C1",
+      "title": "Things I Won't Get",
+      "kind": "same"
+     },
+     {
+      "position": "C2",
+      "title": "The Power Couple",
+      "kind": "same"
+     },
+     {
+      "position": "C3",
+      "title": "Collaborations Don't Work",
+      "kind": "same"
+     },
+     {
+      "position": "C4",
+      "title": "Piss Off",
+      "kind": "same"
+     },
+     {
+      "position": "D1",
+      "title": "So Many Bridges",
+      "kind": "same"
+     },
+     {
+      "position": "D2",
+      "title": "King Of The Song",
+      "kind": "same"
+     },
+     {
+      "position": "D3",
+      "title": "Look At Me",
+      "kind": "same"
+     },
+     {
+      "position": "D4",
+      "title": "A Violent Death",
+      "kind": "same"
+     },
+     {
+      "position": "1",
+      "title": "Collaborations Do Work",
+      "kind": "new"
+     }
+    ]
+   },
+   "counts": {
+    "same": 16,
+    "again": 0,
+    "new": 1
+   }
+  },
+  {
+   "master_id": 245158,
+   "standard": {
+    "release_id": 16964841,
+    "artist": "The Hold Steady",
+    "title": "Heaven Is Whenever",
+    "year": 2020,
+    "format": "LP; Album; Deluxe Edition; Limited Edition; Reissue; Remastered",
+    "colour_or_text": "",
+    "country": "UK & Europe",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "The Sweet Part Of The City"
+     },
+     {
+      "position": "A2",
+      "title": "Soft In The Center"
+     },
+     {
+      "position": "A3",
+      "title": "The Weekenders"
+     },
+     {
+      "position": "A4",
+      "title": "The Smidge"
+     },
+     {
+      "position": "A5",
+      "title": "Rock Problems"
+     },
+     {
+      "position": "B6",
+      "title": "We Can Get Together"
+     },
+     {
+      "position": "B7",
+      "title": "Hurricane J"
+     },
+     {
+      "position": "B8",
+      "title": "Barely Breathing"
+     },
+     {
+      "position": "B9",
+      "title": "Our Whole Lives"
+     },
+     {
+      "position": "B10",
+      "title": "A Slight Discomfort"
+     },
+     {
+      "position": "C11",
+      "title": "Ascension Blues"
+     },
+     {
+      "position": "C12",
+      "title": "Touchless"
+     },
+     {
+      "position": "C13",
+      "title": "Separate Vacations"
+     },
+     {
+      "position": "C14",
+      "title": "Criminal Fingers"
+     },
+     {
+      "position": "D15",
+      "title": "Beer On The Bedstand"
+     },
+     {
+      "position": "D16",
+      "title": "At Least Not Tonight"
+     },
+     {
+      "position": "D17",
+      "title": "Wonderful Struggle"
+     },
+     {
+      "position": "D18",
+      "title": "Going On A Hike"
+     },
+     {
+      "position": "D19",
+      "title": "We Can Get Together (Alternate)"
+     }
+    ]
+   },
+   "limited": {
+    "release_id": 16888218,
+    "artist": "The Hold Steady",
+    "title": "Heaven Is Whenever",
+    "year": 2020,
+    "format": "LP; Album; Reissue; Remastered; LP; Remastered; 7\"; 45 RPM; Remastered",
+    "colour_or_text": "Red Translucent With Black Marble | Red Translucent With Black Marble | Red Translucent With Black Marble",
+    "country": "US",
+    "limited": false,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "The Sweet Part Of The City",
+      "kind": "same"
+     },
+     {
+      "position": "A2",
+      "title": "Soft In The Center",
+      "kind": "same"
+     },
+     {
+      "position": "A3",
+      "title": "The Weekenders",
+      "kind": "same"
+     },
+     {
+      "position": "A4",
+      "title": "The Smidge",
+      "kind": "same"
+     },
+     {
+      "position": "A5",
+      "title": "Rock Problems",
+      "kind": "same"
+     },
+     {
+      "position": "B6",
+      "title": "We Can Get Together",
+      "kind": "same"
+     },
+     {
+      "position": "B7",
+      "title": "Hurricane J",
+      "kind": "same"
+     },
+     {
+      "position": "B8",
+      "title": "Barely Breathing",
+      "kind": "same"
+     },
+     {
+      "position": "B9",
+      "title": "Our Whole Lives",
+      "kind": "same"
+     },
+     {
+      "position": "B10",
+      "title": "A Slight Discomfort",
+      "kind": "same"
+     },
+     {
+      "position": "C11",
+      "title": "Ascension Blues",
+      "kind": "same"
+     },
+     {
+      "position": "C12",
+      "title": "Touchless",
+      "kind": "same"
+     },
+     {
+      "position": "C13",
+      "title": "Separate Vacations",
+      "kind": "same"
+     },
+     {
+      "position": "C14",
+      "title": "Criminal Fingers",
+      "kind": "same"
+     },
+     {
+      "position": "D15",
+      "title": "Beer On The Bedstand",
+      "kind": "same"
+     },
+     {
+      "position": "D16",
+      "title": "At Least Not Tonight",
+      "kind": "same"
+     },
+     {
+      "position": "D17",
+      "title": "Wonderful Struggle",
+      "kind": "same"
+     },
+     {
+      "position": "D18",
+      "title": "Going On A Hike",
+      "kind": "same"
+     },
+     {
+      "position": "D19",
+      "title": "We Can Get Together (Alternate)",
+      "kind": "same"
+     },
+     {
+      "position": "E",
+      "title": "Hurricane J",
+      "kind": "again"
+     },
+     {
+      "position": "F",
+      "title": "Our Whole Lives (Avatar Sessions)",
+      "kind": "again"
+     }
+    ]
+   },
+   "counts": {
+    "same": 19,
+    "again": 2,
+    "new": 0
+   }
+  },
+  {
+   "master_id": 1766216,
+   "standard": {
+    "release_id": 15648687,
+    "artist": "Dream Wife",
+    "title": "So When You Gonna...",
+    "year": 2020,
+    "format": "LP; Album; Club Edition; Limited Edition; Numbered",
+    "colour_or_text": "Clear With Neon Pink Splatter",
+    "country": "US",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Sports!"
+     },
+     {
+      "position": "A2",
+      "title": "Hasta La Vista"
+     },
+     {
+      "position": "A3",
+      "title": "Homesick"
+     },
+     {
+      "position": "A4",
+      "title": "Validation"
+     },
+     {
+      "position": "A5",
+      "title": "Temporary"
+     },
+     {
+      "position": "A6",
+      "title": "U Do U"
+     },
+     {
+      "position": "B1",
+      "title": "RHRN"
+     },
+     {
+      "position": "B2",
+      "title": "Old Flame"
+     },
+     {
+      "position": "B3",
+      "title": "So When You Gonna..."
+     },
+     {
+      "position": "B4",
+      "title": "Hold On Me"
+     },
+     {
+      "position": "B5",
+      "title": "After The Rain"
+     }
+    ]
+   },
+   "limited": {
+    "release_id": 15575202,
+    "artist": "Dream Wife",
+    "title": "So When You Gonna...",
+    "year": 2020,
+    "format": "LP; Album; Limited Edition",
+    "colour_or_text": "Green/Yellow Split",
+    "country": "UK",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Sports!",
+      "kind": "same"
+     },
+     {
+      "position": "A2",
+      "title": "Hasta La Vista",
+      "kind": "same"
+     },
+     {
+      "position": "A3",
+      "title": "Homesick",
+      "kind": "same"
+     },
+     {
+      "position": "A4",
+      "title": "Validation",
+      "kind": "same"
+     },
+     {
+      "position": "A5",
+      "title": "Temporary",
+      "kind": "same"
+     },
+     {
+      "position": "A6",
+      "title": "U Do U",
+      "kind": "same"
+     },
+     {
+      "position": "B1",
+      "title": "RHRN",
+      "kind": "same"
+     },
+     {
+      "position": "B2",
+      "title": "Old Flame",
+      "kind": "same"
+     },
+     {
+      "position": "B3",
+      "title": "So When You Gonna...",
+      "kind": "same"
+     },
+     {
+      "position": "B4",
+      "title": "Hold On Me",
+      "kind": "same"
+     },
+     {
+      "position": "B5",
+      "title": "After The Rain",
+      "kind": "same"
+     },
+     {
+      "position": "CD1",
+      "title": "Sports!",
+      "kind": "again"
+     },
+     {
+      "position": "CD2",
+      "title": "Hasta La Vista",
+      "kind": "again"
+     },
+     {
+      "position": "CD3",
+      "title": "Homesick",
+      "kind": "again"
+     },
+     {
+      "position": "CD4",
+      "title": "Validation",
+      "kind": "again"
+     },
+     {
+      "position": "CD5",
+      "title": "Temporary",
+      "kind": "again"
+     },
+     {
+      "position": "CD6",
+      "title": "U Do U",
+      "kind": "again"
+     },
+     {
+      "position": "CD7",
+      "title": "RHRN",
+      "kind": "again"
+     },
+     {
+      "position": "CD8",
+      "title": "Old Flame",
+      "kind": "again"
+     },
+     {
+      "position": "CD9",
+      "title": "So When You Gonna...",
+      "kind": "again"
+     },
+     {
+      "position": "CD10",
+      "title": "Hold On Me",
+      "kind": "again"
+     },
+     {
+      "position": "CD11",
+      "title": "After The Rain",
+      "kind": "again"
+     },
+     {
+      "position": "CD12",
+      "title": "Cheap Thrills",
+      "kind": "new"
+     },
+     {
+      "position": "CD13",
+      "title": "Out Loud",
+      "kind": "new"
+     }
+    ]
+   },
+   "counts": {
+    "same": 11,
+    "again": 11,
+    "new": 2
+   }
+  },
+  {
+   "master_id": 105516,
+   "standard": {
+    "release_id": 32781756,
+    "artist": "Cave In",
+    "title": "Jupiter",
+    "year": 2025,
+    "format": "LP; Album; Limited Edition; Reissue",
+    "colour_or_text": "Clear [Milky] With Halloween Orange, Black And Neon Violet Splatter",
+    "country": "US",
+    "limited": true,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Jupiter"
+     },
+     {
+      "position": "A2",
+      "title": "In The Stream Of Commerce"
+     },
+     {
+      "position": "A3",
+      "title": "Big Riff"
+     },
+     {
+      "position": "A4",
+      "title": "Innuendo And Out The Other"
+     },
+     {
+      "position": "B1",
+      "title": "Brain Candle"
+     },
+     {
+      "position": "B2",
+      "title": "Requiem"
+     },
+     {
+      "position": "B3",
+      "title": "Decay Of The Delay"
+     },
+     {
+      "position": "B4",
+      "title": "New Moon"
+     }
+    ]
+   },
+   "limited": {
+    "release_id": 32770011,
+    "artist": "Cave In",
+    "title": "Jupiter",
+    "year": 2025,
+    "format": "LP; Album; Reissue; Remastered; LP",
+    "colour_or_text": "Blue [Sea] And Clear [Milky] Quad Effect With Silver Glitter And Halloween Orange, Black And White Splatter | Blue [Sea] And Clear [Milky] Quad Effect With Silver Glitter And Halloween Orange, Black And White Splatter",
+    "country": "US",
+    "limited": false,
+    "tracks": [
+     {
+      "position": "A1",
+      "title": "Jupiter",
+      "kind": "same"
+     },
+     {
+      "position": "A2",
+      "title": "In The Stream Of Commerce",
+      "kind": "same"
+     },
+     {
+      "position": "A3",
+      "title": "Big Riff",
+      "kind": "same"
+     },
+     {
+      "position": "A4",
+      "title": "Innuendo And Out The Other",
+      "kind": "same"
+     },
+     {
+      "position": "B1",
+      "title": "Brain Candle",
+      "kind": "same"
+     },
+     {
+      "position": "B2",
+      "title": "Requiem",
+      "kind": "same"
+     },
+     {
+      "position": "B3",
+      "title": "Decay Of The Delay",
+      "kind": "same"
+     },
+     {
+      "position": "B4",
+      "title": "New Moon",
+      "kind": "same"
+     },
+     {
+      "position": "C1",
+      "title": "Brain Candle",
+      "kind": "again"
+     },
+     {
+      "position": "C2",
+      "title": "Innuendo And Out The Other - Guitarmada",
+      "kind": "again"
+     },
+     {
+      "position": "C3",
+      "title": "Big Riff",
+      "kind": "again"
+     },
+     {
+      "position": "D1",
+      "title": "Decay Of The Delay",
+      "kind": "again"
+     },
+     {
+      "position": "D2",
+      "title": "In The Stream Of Commerce - Sonata McGrath",
+      "kind": "again"
+     },
+     {
+      "position": "D3",
+      "title": "Jupiter",
+      "kind": "again"
+     },
+     {
+      "position": "D4",
+      "title": "Dazed And Confused",
+      "kind": "new"
+     },
+     {
+      "position": "E1",
+      "title": "Intro",
+      "kind": "new"
+     },
+     {
+      "position": "E2",
+      "title": "In The Stream Of Commerce",
+      "kind": "again"
+     },
+     {
+      "position": "E3",
+      "title": "Big Riff",
+      "kind": "again"
+     },
+     {
+      "position": "E4",
+      "title": "Innuendo And Out The Other",
+      "kind": "again"
+     },
+     {
+      "position": "F1",
+      "title": "Requiem",
+      "kind": "again"
+     },
+     {
+      "position": "F2",
+      "title": "Open F# Satellite",
+      "kind": "new"
+     },
+     {
+      "position": "F3",
+      "title": "New Moon",
+      "kind": "again"
+     }
+    ]
+   },
+   "counts": {
+    "same": 8,
+    "again": 11,
+    "new": 3
+   }
+  }
+ ],
+ "meta": {
+  "source": "tracklists_2026-10-11.csv (Discogs API tracklists of the 95-album sample) + Discogs dump 1 Oct 2026",
+  "rule": "new = title not on the standard version; again = a title already on it (other take, demo, live or repeated album); same = on both"
+ }
+}

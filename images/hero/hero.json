@@ -1,0 +1,45 @@
+{
+  "_note": "Homepage collage (src/hero.js). One entry per photo slot. Put the image file in this folder and write its name in 'file'. 'alt' = what the photo shows, for screen readers. 'caption' = a short, TRUE description in capitals (e.g. INDEPENDENT RECORD STORE only if it is one); leave empty if unsure. 'credit' = photographer / account; 'source' = the page the photo comes from (the caption links to it). 'need' = what the slot is for (shown in the empty slot). 'focus' = which part of the photo stays in view when it is cropped to the slot (CSS object-position, e.g. '50% 40%'). Photos chosen 13 Oct 2026 from Lulu's Pinterest download (scraped/pinterest/Search/).",
+  "photos": [
+    {
+      "slot": "main",
+      "file": "record-store-new-arrivals.jpg",
+      "alt": "A record store wall of new arrivals: album covers faced out on shelves, some with sale stickers and handwritten notes.",
+      "caption": "Record store, new arrivals wall",
+      "credit": "@earth2novelle · Pinterest",
+      "source": "https://www.pinterest.com/pin/643733340541374177/",
+      "need": "Large photo: racks or shelves of records in a record store. Portrait 4:5, at least 1000 × 1250 px.",
+      "focus": "50% 40%"
+    },
+    {
+      "slot": "side",
+      "file": "indie-new-wave-bin.jpg",
+      "alt": "Two hands flipping through records in a store bin behind a divider card reading Indie / New Wave.",
+      "caption": "The “Indie / New Wave” bin",
+      "credit": "Pinterest (from substack.com/@melinafreschi)",
+      "source": "https://www.pinterest.com/pin/14777505023306373/",
+      "need": "Medium photo: hands flipping through records in a bin. Landscape 3:2, at least 1200 × 800 px.",
+      "focus": "50% 38%"
+    },
+    {
+      "slot": "detail-a",
+      "file": "gold-vinyl-turntable.jpg",
+      "alt": "Close-up of a gold-coloured record turning under a tonearm.",
+      "caption": "Gold vinyl",
+      "credit": "Jakob Rosen · Unsplash",
+      "source": "https://unsplash.com/photos/KA1WM_yQGF8",
+      "need": "Close-up: grooves and the centre label of a record. Square, at least 800 × 800 px.",
+      "focus": "40% 50%"
+    },
+    {
+      "slot": "detail-b",
+      "file": "red-vinyl-sky.jpg",
+      "alt": "Two hands holding a translucent red record up against a blue sky.",
+      "caption": "The Marías, Superclean Vol. II, red vinyl",
+      "credit": "@saschbbc · Pinterest",
+      "source": "https://www.pinterest.com/pin/5136987071208986/",
+      "need": "Detail: a coloured record held up or handled as an object (no sticker / hand-numbered photo was available). Portrait 3:4, at least 600 × 800 px.",
+      "focus": "50% 50%"
+    }
+  ]
+}

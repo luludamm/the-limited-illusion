@@ -6,8 +6,8 @@
   <title>The Limited Illusion</title>
   <meta name="description" content="An editorial data story about limited-edition indie rock vinyl, 1990–2025, built on Discogs data." />
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%23253A82'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%23E3FC87'/%3E%3C/svg%3E" />
-  <script type="module" crossorigin src="./assets/index-BOJXkfRT.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-NzBMBgl6.css">
+  <script type="module" crossorigin src="./assets/index-2ro5fY85.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-C1KSTh6y.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to the story</a>
@@ -15,14 +15,32 @@
   <main id="main">
     <!-- ================= OPENING ================= -->
     <section class="opening" id="top" aria-labelledby="title">
+      <!-- Hero: the title over a photo collage, and the latest limited share as a lime block (src/hero.js).
+           Photos: public/images/hero/hero.json; an empty slot says what it needs. -->
+      <header class="hero" id="hero">
+        <div class="hero-type">
+          <h1 id="title" class="display hero-title">The Limited <em>Illusion</em></h1>
+          <p class="standfirst">What makes vinyl special?</p>
+        </div>
+        <figure class="hero-photo hp-main" data-hero="main"><div class="hp-img"></div></figure>
+        <figure class="hero-photo hp-side" data-hero="side"><div class="hp-img"></div></figure>
+        <figure class="hero-photo hp-detail-a" data-hero="detail-a" data-drift="0.08"><div class="hp-img"></div></figure>
+        <figure class="hero-photo hp-detail-b" data-hero="detail-b" data-drift="0.14"><div class="hp-img"></div></figure>
+        <p class="hero-callout">
+          <span class="hs-kicker">In <span data-fact="last_year"></span></span>
+          <span class="hs-num"><span data-fact="lim_last_pct"></span></span>
+          <span class="hs-cap">of indie rock vinyl on Discogs was labelled “Limited Edition”. In <span data-fact="first_year"></span>: <span data-fact="lim_first_pct"></span>.</span>
+        </p>
+      </header>
+
       <!-- The track is tall; the stage sticks while you scroll through it, and scroll position drives the spines (src/ch1.js). -->
       <div class="opening-track" id="opening-track">
         <div class="opening-stage">
-          <div class="opening-head">
-            <h1 id="title" class="display">The Limited <em>Illusion</em></h1>
-            <p class="standfirst">Is indie vinyl still about the music?</p>
+          <!-- The bridge into the story, beside the chart -->
+          <div class="rare-q">
+            <p class="rare-line">If everything is limited, <em>is anything rare?</em></p>
+            <p class="scroll-cue" aria-hidden="true">Scroll to explore <span>↓</span></p>
           </div>
-
           <figure class="opening-figure" aria-labelledby="fig0-cap">
             <div class="spine-readout" id="spine-readout" aria-hidden="true"></div>
             <div id="spines" class="spines" role="img"></div>
@@ -30,22 +48,20 @@
               Each spine is one year of indie rock vinyl on Discogs; the dark part is the share labelled “Limited Edition” (full spine = 100%).
             </figcaption>
           </figure>
-
-          <p class="scroll-hint" aria-hidden="true">Scroll <span>↓</span></p>
-          <p class="bridge">When <span data-fact="lim_last_ratio"></span> records are “limited”, what makes any of them rare?</p>
         </div>
       </div>
 
+      <!-- The research question, set large; the lede beside it -->
       <div class="opening-grid">
+        <p class="question">
+          <span class="ref">Research question</span>
+          In the streaming era, has the vinyl revival’s promise of <mark>“material authenticity”</mark> and <mark>“scarcity”</mark> in indie rock
+          transformed into an inflated, gamified marketing mechanic?
+        </p>
         <p class="lede">
           Another colour, another “limited edition”, another pre-order countdown. We read
           <span data-fact="dump_releases"></span> indie rock vinyl releases catalogued on Discogs to see what the word
           <q>limited</q> still tells a collector.
-        </p>
-        <p class="question">
-          <span class="ref">Research question</span>
-          In the streaming era, has the vinyl revival’s promise of “material authenticity” and “scarcity” in indie rock
-          transformed into an inflated, gamified marketing mechanic?
         </p>
       </div>
 
@@ -71,39 +87,41 @@
         </div>
         <div class="spread-left">
           <p class="specimen-tag">Specimen 01 · Variant overload</p>
-          <!-- The cover; its other vinyl versions glide out from behind it on scroll (src/punisher.js) -->
-          <div class="variant-stage" id="punisher-stage">
-            <figure class="slot" data-slot="ch01-punisher.jpg" data-alt="Phoebe Bridgers, Punisher: the album cover"></figure>
+          <!-- The cover beside a board of its vinyl versions; select one to see it large in place of the cover (src/punisher.js) -->
+          <div class="pun-board" id="punisher-stage">
+            <div class="pun-hero">
+              <div class="pun-frame">
+                <figure class="slot" data-slot="ch01-punisher.jpg" data-alt="Phoebe Bridgers, Punisher: the album cover"></figure>
+                <img class="pun-front" id="punisher-front" alt="" decoding="async" />
+              </div>
+              <p class="specimen-caption">
+                <strong>Phoebe Bridgers — <em>Punisher</em></strong>
+                <span>2020 · Dead Oceans</span>
+                <span class="edition" data-edition="ch01-punisher.jpg"></span>
+              </p>
+            </div>
+            <div class="pun-side">
+              <p class="variant-readout" id="punisher-readout" aria-live="polite"></p>
+              <ol class="pun-grid" id="punisher-grid" aria-label="The vinyl versions of Punisher; select one to see it large"></ol>
+            </div>
           </div>
-          <p class="variant-readout" id="punisher-readout" aria-live="polite"></p>
-          <p class="specimen-caption">
-            <strong>Phoebe Bridgers — <em>Punisher</em></strong>
-            <span>2020 · Dead Oceans</span>
-            <span class="edition" data-edition="ch01-punisher.jpg"></span>
-          </p>
         </div>
       </div>
 
       <div class="scrolly" data-scrolly="ch1">
-        <!-- One sticky graphic, two layers: years (steps 0–2) → label size (3). src/ch1.js -->
-        <figure class="scrolly-graphic" aria-label="Fig 01: limited share per year, and by label size">
+        <!-- One sticky graphic: the years, grown step by step (label size is told in ch. 05). src/ch1.js -->
+        <figure class="scrolly-graphic" aria-label="Fig 01: limited share per year">
           <div class="layer" data-layer="years">
             <p class="ref">Fig 01. Share labelled “Limited Edition”, per year</p>
             <div id="year-chart" class="chart"></div>
             <p id="pop-note" class="chart-note" hidden></p>
             <div id="year-readout" class="readout" aria-live="polite"></div>
           </div>
-          <div class="layer" data-layer="tiers" hidden>
-            <p class="ref">Fig 01b. Limited share by label size, 2015–2025</p>
-            <div id="tier-chart" class="chart"></div>
-            <p class="caption">Label size = the label’s indie rock vinyl releases in the dataset.</p>
-          </div>
         </figure>
         <div class="steps">
           <div class="step" data-step="0"><p><span class="step-year" data-fact="first_year"></span>In <span data-fact="first_year"></span>, only <span data-fact="lim_pct_1990"></span> of indie rock vinyl records carried a “Limited Edition” tag: <span data-fact="lim_count_1990"></span> of <span data-fact="lim_total_1990"></span>.</p></div>
           <div class="step" data-step="1"><p><span class="step-year" data-fact="lim_peak_year"></span>By <span data-fact="lim_peak_year"></span>, that share peaked at <span data-fact="lim_peak_pct"></span>, after the steepest five-year climb (<span data-fact="rise_from_year"></span>–<span data-fact="rise_to_year"></span>, <span data-fact="rise_pts"></span>).</p></div>
           <div class="step" data-step="2"><p><span class="step-year" data-fact="last_year"></span>It still sits at <span data-fact="lim_last_pct"></span> in <span data-fact="last_year"></span>. And <span data-fact="ext_pop_below_phrase"></span> since <span data-fact="ext_pop_first_year"></span>, indie rock has labelled a higher share of its vinyl limited than pop (dots), which stood at <span data-fact="ext_pop_last_pct"></span> in <span data-fact="ext_pop_last_year"></span>.</p></div>
-          <div class="step" data-step="3"><p><span class="step-year">Since 2015</span>This isn’t just the work of a few dominant players: the top 20 labels account for only <span data-fact="top20_share_pct"></span> of all limited releases. From labels with six releases up to the largest, the share barely moves: <span data-fact="tier_6_50_pct"></span>, <span data-fact="tier_51_500_pct"></span>, <span data-fact="tier_500_pct"></span>.</p></div>
         </div>
       </div>
 
@@ -142,7 +160,7 @@
           </p>
         </div>
         <div class="spread-right">
-          <dl class="metrics"><div><dt>Limited releases with no stated quantity</dt><dd><span data-fact="no_number_pct"></span></dd></div><div><dt>All limited versions vs the largest single run</dt><dd><span data-fact="ext_multiplier_median"></span></dd></div><div><dt>Wanted more than standard: no number vs numbered</dt><dd><span data-fact="want_limited_vague_pct"></span> <small>vs</small> <span data-fact="want_limited_number_pct"></span></dd></div></dl>
+          <dl class="metrics"><div><dt>of limited releases give no pressing quantity on Discogs</dt><dd><span data-fact="no_number_pct"></span></dd></div><div><dt>An album’s limited versions added together, against its biggest “limited to” number (median)</dt><dd><span data-fact="ext_multiplier_median"></span></dd></div><div><dt>of unnumbered limited versions are wanted more than the standard copy (numbered: <span data-fact="want_limited_number_pct"></span>)</dt><dd><span data-fact="want_limited_vague_pct"></span></dd></div></dl>
           <p class="intro">Flip a record over. The sticker says “limited”, but limited to how many: 500 copies, or 50,000?
             boygenius’s <em>the record</em> came out on <span data-fact="boygenius_versions"></span> vinyl releases in <span data-fact="boygenius_year"></span>,
             <span data-fact="boygenius_limited"></span> of them labelled limited. One sticker per vinyl colour, with the quantities its listings state:</p>
@@ -167,14 +185,19 @@
           <div class="layer" data-layer="want" hidden>
             <p class="ref">Fig 02b. Wanted more than the standard version of the same album</p>
             <div id="want-ci" class="chart"></div>
+            <!-- What a stated quantity looks like: close-ups from Instagram posts (src/ch2.js initNumbered, images/numbered/numbered.json) -->
+            <div class="numbered-block">
+              <p class="ref">What “states a quantity” looks like</p>
+              <ul id="numbered" class="numbered"></ul>
+            </div>
           </div>
         </figure>
         <div class="steps">
           <div class="step" data-step="0"><p>Every limited indie rock release recorded on Discogs, <span data-fact="limited_releases"></span> of them, as one hundred records: each stands for about <span data-fact="releases_per_record"></span>. Every one carries the sticker.</p></div>
           <div class="step" data-step="1"><p>Now the small print. <span data-fact="states_number_pct"></span> say how many copies were pressed (“limited to 500 copies”). The rest show a question mark.</p></div>
-          <div class="step" data-step="2"><p><span data-fact="no_number_pct"></span> never state a pressing count in their release notes. Even when numbers are given, an album often has several limited versions: together their copies add up to <span data-fact="ext_multiplier_median"></span> the largest single “limited to” number (median of <span data-fact="ext_multiplier_albums"></span> albums).</p></div>
+          <div class="step" data-step="2"><p>For <span data-fact="no_number_pct"></span>, no pressing count is found in the release notes. Even when numbers are given, an album often has several limited versions: together their copies add up to <span data-fact="ext_multiplier_median"></span> the largest single “limited to” number (median of <span data-fact="ext_multiplier_albums"></span> albums).</p></div>
           <div class="step" data-step="3"><p>What do they say instead? The most common word group is <span class="word-tag" data-fact="word_0"></span>, in <span data-fact="word_0_pct"></span> of them.</p></div>
-          <div class="step" data-step="4"><p>Yet collectors don’t seem deterred: unnumbered editions are wanted more than the standard copy <span data-fact="want_limited_vague_pct"></span> of the time, statistically indistinguishable from numbered ones (<span data-fact="want_limited_number_pct"></span>). The intervals overlap.</p></div>
+          <div class="step" data-step="4"><p>Yet collectors don’t seem deterred. Unnumbered limited versions out-want the standard copy of the same album <span data-fact="want_limited_vague_pct"></span> of the time (<span data-fact="want_limited_vague_versions"></span> versions), numbered ones <span data-fact="want_limited_number_pct"></span> (<span data-fact="want_limited_number_versions"></span>). Both more often than not; with samples this small, the two can’t be told apart. The intervals overlap.</p></div>
         </div>
       </div>
 
@@ -222,58 +245,65 @@
             up from <span data-fact="ext_versions_first_mean"></span> in <span data-fact="ext_versions_first_year"></span>. In extreme cases, such as Twenty One Pilots’ <em>Breach</em> (filed under indie rock on Discogs),
             a single album generated <span data-fact="breach_designs"></span> designs and <span data-fact="breach_limited"></span> limited versions in <span data-fact="breach_year"></span> alone (<span data-fact="breach_versions"></span> releases).
             But what is actually pressed inside the sleeve?</p>
+          <!-- Fig 03b: the same check across the sample, under the specimen's numbers; it leads into Wolf Alice and Olivia below -->
+          <div class="tl-block">
+            <p class="ref">Fig 03b. Tracklist drift, <span data-fact="tl_albums"></span> albums</p>
+            <p>Compared with the standard copy, <span data-fact="tl_identical_pct"></span> of limited versions have identical tracklists (<span data-fact="tl_identical"></span> of <span data-fact="tl_limited_versions"></span>).
+              Only <span data-fact="tl_extra_tracks_pct"></span> provide extra tracks, while <span data-fact="tl_fewer_pct"></span> contain fewer songs.</p>
+            <figure>
+              <div id="track-units" class="units" role="img"></div>
+              <ul id="track-legend" class="legend legend-buttons" aria-label="Tracklist match groups; choose one to highlight"></ul>
+            </figure>
+          </div>
         </div>
       </div>
 
-      <!-- Fig 03: every version's tracklist printed on its own near-transparent layer, stacked (src/wolf.js) -->
-      <div class="stage-block onion-block">
+      <!-- Fig 03: the few limited versions that add music, track by track (src/extra-tracks.js, extra_tracks.json) -->
+      <div class="stage-block extra-block">
         <div class="stage-text">
-          <p class="ref">Fig 03. Every listing’s tracklist, one on top of the other</p>
-          <h3 class="sub">Stack the versions. See one record.</h3>
-          <p>Wolf Alice’s <em>The Clearing</em>: <span data-fact="wa_versions"></span> vinyl listings in <span data-fact="wa_year"></span>,
-            <span data-fact="wa_limited"></span> labelled limited. Many are the same disc listed again for another country or shop:
-            they come down to <span data-fact="wa_discs"></span> discs and <span data-fact="wa_covers"></span> covers.
-            Stacked, any different song would show as a ghost. None does; only the side-B numbering drifts.</p>
-          <div id="wa-crate" class="wa-crate" role="group" aria-label="The covers and discs; select one to light up its listings’ layers"></div>
-          <p id="wolf-readout" class="wa-readout" aria-live="polite"></p>
+          <p class="ref">Fig 03. The few that add music</p>
+          <h3 class="sub">More tracks, <em>rarely more songs</em></h3>
+          <p>Only <span data-fact="tl_extra_tracks"></span> of the <span data-fact="tl_limited_versions"></span> limited versions in the sample
+            (<span data-fact="tl_extra_tracks_pct"></span>) list more tracks than the album’s standard copy. Four of them, track by track.
+            The track count can more than double; the new songs stay few, and sometimes there is none.</p>
+          <ul class="extra-key" aria-hidden="true">
+            <li><i class="k-same"></i>also on the standard copy</li>
+            <li><i class="k-again"></i>a song already there: another take, or the album again on a bonus disc</li>
+            <li><i class="k-new"></i>a new song</li>
+          </ul>
+          <p id="extra-readout" class="extra-readout" aria-live="polite"></p>
         </div>
-        <figure class="onion-fig">
-          <div id="wolf" class="onion" role="img"></div>
+        <figure class="extra-fig">
+          <ul id="extra-cards" class="extra-cards"></ul>
         </figure>
       </div>
 
-      <!-- Fig 03b: the same check across the sample -->
-      <div class="after">
-        <div>
-          <p class="ref">Fig 03b. Tracklist drift, <span data-fact="tl_albums"></span> albums</p>
-          <p>Compared with the standard copy, <span data-fact="tl_identical_pct"></span> of limited versions have identical tracklists (<span data-fact="tl_identical"></span> of <span data-fact="tl_limited_versions"></span>).
-            Only <span data-fact="tl_extra_tracks_pct"></span> provide extra tracks, while <span data-fact="tl_fewer_pct"></span> contain fewer songs.</p>
-        </div>
-        <figure>
-          <div id="track-units" class="units" role="img"></div>
-          <ul id="track-legend" class="legend legend-buttons" aria-label="Tracklist match groups; choose one to highlight"></ul>
-        </figure>
-      </div>
-
-      <!-- Fig 03c: same titles, shorter songs (src/olivia.js) -->
-      <div class="after olivia">
-        <div>
+      <!-- Fig 03c: same titles, shorter songs (src/olivia.js); same layout as Fig 03 above -->
+      <div class="stage-block olivia-block">
+        <div class="stage-text">
           <p class="ref">Fig 03c. Same titles, shorter songs</p>
-          <img class="olivia-cover" src="./images/olivia-cover.png" width="854" height="527" alt="Olivia Rodrigo's album on pink vinyl" decoding="async" loading="lazy" />
-          <h3 class="sub">The tracklist is the same. The music is not.</h3>
+          <h3 class="sub">Same tracklist, <em>shorter songs</em></h3>
           <p>Matching titles has a blind spot. A fan timed every song on Olivia Rodrigo’s LP against streaming (pop, not Discogs data):
             <span data-fact="olivia_changed"></span> of <span data-fact="olivia_tracks"></span> songs are shorter on vinyl, <span data-fact="olivia_cut"></span> in all.</p>
+          <ul class="extra-key ol-key" aria-hidden="true">
+            <li><i class="k-play"></i>plays on both</li>
+            <li><i class="k-cut"></i>missing on vinyl</li>
+            <li><i class="k-add"></i>added on vinyl</li>
+          </ul>
+          <p id="olivia-detail" class="olivia-detail" aria-live="polite"></p>
         </div>
-        <figure>
-          <div class="graphic-head">
-            <span></span>
-            <div class="segmented" role="radiogroup" aria-label="Version" id="olivia-toggle">
-              <button type="button" role="radio" aria-checked="true" data-view="streaming">Streaming</button>
-              <button type="button" role="radio" aria-checked="false" data-view="vinyl">Vinyl</button>
+        <figure class="extra-fig ol-fig">
+          <div class="ol-head">
+            <img class="olivia-cover" src="./images/olivia-cover.png" width="854" height="527" alt="Olivia Rodrigo's album on pink vinyl" decoding="async" loading="lazy" />
+            <div class="ol-head-text">
+              <p class="ol-total" id="olivia-total"></p>
+              <div class="segmented ol-toggle" role="group" aria-label="Version" id="olivia-toggle">
+                <button type="button" aria-pressed="true" data-view="streaming">Streaming</button>
+                <button type="button" aria-pressed="false" data-view="vinyl">Vinyl</button>
+              </div>
             </div>
           </div>
           <div id="olivia-chart" class="olivia-chart"></div>
-          <p id="olivia-detail" class="olivia-detail" aria-live="polite"></p>
         </figure>
       </div>
 
@@ -322,7 +352,7 @@
           </p>
         </div>
         <div class="spread-right">
-          <dl class="metrics"><div><dt>Releases that mention the look, <span data-fact="looks_last_year"></span></dt><dd><span data-fact="looks_last_pct"></span></dd></div><div><dt>Releases that mention the sound, <span data-fact="looks_last_year"></span></dt><dd><span data-fact="sounds_last_pct"></span></dd></div><div><dt>Releases saying “audiophile” / “half-speed”</dt><dd><span data-fact="audiophile_releases"></span> <small>/</small> <span data-fact="halfspeed_releases"></span></dd></div></dl>
+          <dl class="metrics"><div><dt>Releases that mention the look, <span data-fact="looks_last_year"></span></dt><dd><span data-fact="looks_last_pct"></span></dd></div><div><dt>Releases that mention the sound, <span data-fact="looks_last_year"></span></dt><dd><span data-fact="sounds_last_pct"></span></dd></div><div><dt>Look mentions for every sound mention, <span data-fact="looks_last_year"></span></dt><dd><span data-fact="looks_to_sounds_last"></span> <small>to</small> 1</dd></div></dl>
           <p class="intro">The vinyl revival was promised as a return to tactile ritual and acoustic depth. The data shows a shift from sound to sight.
             Around this page: fans’ photos of Japanese Breakfast’s <em>Jubilee</em>, which came out on <span data-fact="jubilee_versions"></span> vinyl releases in <span data-fact="jubilee_year"></span>,
             <span data-fact="jubilee_colour"></span> of them named by a colour.</p>
@@ -334,10 +364,10 @@
         <figure class="scrolly-graphic" aria-labelledby="fig4-cap">
           <div class="graphic-head">
             <p class="ref" id="looks-title">Fig 04. Look words vs sound words</p>
-            <div class="segmented" role="radiogroup" aria-label="Chart view" id="looks-toggle">
-              <button type="button" role="radio" aria-checked="true" data-view="both">Look vs sound</button>
-              <button type="button" role="radio" aria-checked="false" data-view="looks">Inside look</button>
-              <button type="button" role="radio" aria-checked="false" data-view="sounds">Inside sound</button>
+            <div class="segmented" role="group" aria-label="Chart view" id="looks-toggle">
+              <button type="button" aria-pressed="true" data-view="both">Look vs sound</button>
+              <button type="button" aria-pressed="false" data-view="looks">Inside look</button>
+              <button type="button" aria-pressed="false" data-view="sounds">Inside sound</button>
             </div>
           </div>
           <div id="looks-chart" class="chart"></div>
@@ -399,37 +429,51 @@
         <div class="spread-right">
           <dl class="metrics"><div><dt><span data-fact="ss_label"></span> releases labelled limited</dt><dd><span data-fact="ss_pct"></span></dd></div><div><dt>Older albums among releases, <span data-fact="ext_older_late_years"></span></dt><dd><span data-fact="ext_older_late_pct"></span></dd></div><div><dt>Self-released, labelled limited (since 2015)</dt><dd><span data-fact="self_pct"></span></dd></div></dl>
           <p class="intro">Some established labels lean on this formula hardest. <span data-fact="ss_label"></span> (<span data-fact="ss_pct"></span>), <span data-fact="dine_label"></span> (<span data-fact="dine_pct"></span>) and <span data-fact="ct_label"></span> (<span data-fact="ct_pct"></span>)
-            mark roughly half or more of their catalogue as limited. By comparison, self-released artists sit at <span data-fact="self_pct"></span> (since 2015).</p>
+            mark roughly half or more of their catalogue as limited. Since 2015, labels of every size from six releases up stamp about four in ten (<span data-fact="tier_6_50_pct"></span>–<span data-fact="tier_51_500_pct"></span>);
+            the smallest labels (<span data-fact="tier_1_5_pct"></span>) and self-released artists (<span data-fact="self_pct"></span>) stamp it least. If “limited” simply marked the short runs small labels can afford, you would expect the reverse.</p>
         </div>
         <div class="spread-left">
           <p class="specimen-tag">Specimen 05 · Who stamps “limited”</p>
           <!-- Rows of record spines: one spine = 1% of a label's releases, lime = labelled limited (src/ch5.js) -->
           <figure class="label-shelf" id="label-shelf" role="img"></figure>
           <p class="specimen-caption">
-            <strong>Three labels and the DIY shelf</strong>
-            <span>One spine = 1% of releases · dark = labelled “Limited Edition” · labels: all years, self-released: since 2015</span>
+            <strong>Three labels, then every label by size</strong>
+            <span>One spine = 1% of releases · dark = labelled “Limited Edition” · the three labels: all years; by size: since 2015, label size = its indie rock vinyl releases in the dataset</span>
           </p>
         </div>
       </div>
 
       <div class="scrolly" data-scrolly="ch5">
-        <!-- Labels → reissues (src/ch5.js) -->
-        <figure class="scrolly-graphic" aria-label="Fig 05: the labels, and reissues">
+        <!-- The labels (src/ch5.js); reissues follow in the tree block below -->
+        <figure class="scrolly-graphic" aria-label="Fig 05: the twenty labels with the most limited releases">
           <div class="layer" data-layer="labels">
             <p class="ref">Fig 05. The twenty labels with the most limited releases</p>
             <div id="label-fan-5" class="chart"></div>
             <div id="label-logos" class="label-logos" role="group" aria-label="Logos of the 20 labels, sized by limited releases; select one to read its numbers"></div>
             <div id="label-readout-5" class="readout fan-readout" aria-live="polite"></div>
           </div>
-          <div class="layer" data-layer="reissues" hidden>
-            <p class="ref">Fig 05b. Older albums among sampled releases</p>
-            <div id="reissue-chart" class="chart"></div>
-          </div>
         </figure>
         <div class="steps">
-          <div class="step" data-step="0"><p><span class="step-year">The labels</span>The twenty labels with the most limited releases, each logo sized by its count. Together they are only the thin slice of the bar. Against its own catalogue, <span data-fact="label_max_name"></span> prints “limited” most often (<span data-fact="label_max_pct"></span>), <span data-fact="label_min_name"></span> least (<span data-fact="label_min_pct"></span>).</p></div>
-          <div class="step" data-step="1"><p><span class="step-year">Reissues</span>At the same time, reissues and anniversary editions of older titles rose from <span data-fact="ext_older_early_pct"></span> of sampled releases (<span data-fact="ext_older_early_years"></span>) to <span data-fact="ext_older_late_pct"></span> (<span data-fact="ext_older_late_years"></span>). The two intervals <span data-fact="ext_older_overlap"></span>.</p></div>
+          <div class="step" data-step="0"><p><span class="step-year">The labels</span>The twenty labels with the most limited releases, each logo sized by its count. Together they account for only <span data-fact="top20_share_pct"></span> of all limited releases: the thin slice of the bar. Against its own catalogue, <span data-fact="label_max_name"></span> prints “limited” most often (<span data-fact="label_max_pct"></span>), <span data-fact="label_min_name"></span> least (<span data-fact="label_min_pct"></span>).</p></div>
         </div>
+      </div>
+
+      <!-- Fig 05c: older albums pressed again, as a family tree (after The Pudding's "music dna"): one column per album,
+           one small disc per new vinyl release per year, the stems joining into one node (src/reissues.js) -->
+      <div class="stage-block tree-block">
+        <div class="stage-text">
+          <p class="ref">Fig 05b–c. Older albums, pressed again</p>
+          <h3 class="sub">One album, <em>again and again</em></h3>
+          <p>Reissues and anniversary editions of older titles rose from <span data-fact="ext_older_early_pct"></span> of sampled releases (<span data-fact="ext_older_early_years"></span>) to <span data-fact="ext_older_late_pct"></span> (<span data-fact="ext_older_late_years"></span>). The two intervals <span data-fact="ext_older_overlap"></span>.</p>
+          <div id="reissue-chart" class="chart reissue-mini"></div>
+          <p><span data-fact="reissue_older_albums"></span> indie rock albums first out on vinyl in 2005 or earlier got at least one new vinyl release between 2015 and 2025.
+            The most repressed, <span data-fact="reissue_top_artist"></span>’s <em data-fact="reissue_top_title"></em>, came out on <span data-fact="reissue_top_releases"></span> vinyl releases in those years.
+            The busiest reissue label, <span data-fact="reissue_top_label"></span>, put out <span data-fact="reissue_top_label_releases"></span> of them, for <span data-fact="reissue_top_label_albums"></span> albums.</p>
+          <p id="tree-readout" class="tree-readout" aria-live="polite"></p>
+        </div>
+        <figure class="tree-fig">
+          <div class="tree-scroll"><div id="reissue-tree" class="tree" role="group" aria-label="Six older albums and their new vinyl releases per year, 2015 to 2025"></div></div>
+        </figure>
       </div>
 
       <footer class="finding">
@@ -450,6 +494,7 @@
 
       <!-- From data to reflection -->
       <div class="reflection">
+        <h3 class="reflection-title">Support the music, <em>not the sticker</em></h3>
         <p class="reflection-lead">Streaming pays fractions of a cent; multi-variant merchandise may be one way mid-sized labels keep physical releases viable. But buying five different colours of the same album will not revive music’s physical authenticity.
           Perhaps it is time to leave unnumbered variants on the shelf, and redirect genuine support toward new music.</p>
         <div class="checklist-block">
@@ -469,20 +514,15 @@
         </div>
       </div>
 
-      <footer class="chapter-foot closing">
-        <div class="closing-block">
-          <p class="closing-line">Scarcity is easy to print. <em>Collect the music.</em></p>
-          <p class="closing-question">Which of your records would you still keep if the sticker came off?</p>
-        </div>
-        <div class="foot-links">
-          <a class="next" href="#shelf">The Specimen Shelf <span aria-hidden="true">→</span></a>
-          <a class="next ghost" href="#methods">Sources &amp; methods</a>
-        </div>
-      </footer>
     </section>
 
     <!-- ================= SPECIMEN SHELF ================= -->
     <section class="chapter shelf-section" id="shelf" aria-labelledby="shelf-title">
+      <!-- The closing line opens the shelf: the story ends on the records themselves -->
+      <div class="closing-block">
+        <p class="closing-line">Scarcity is easy to print. <em>Collect the music.</em></p>
+        <p class="closing-question">Which of your records would you still keep if the sticker came off?</p>
+      </div>
       <header class="chapter-head">
         <p class="ch-id"><span>S</span> Archive</p>
         <h2 id="shelf-title" class="chapter-title">The Specimen Shelf</h2>

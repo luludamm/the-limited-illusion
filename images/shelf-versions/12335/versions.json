@@ -1,0 +1,199 @@
+{
+ "master_id": 12335,
+ "artist": "The Sundays",
+ "title": "Reading, Writing And Arithmetic",
+ "year": 1990,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source).",
+ "versions": [
+  {
+   "release_id": 3009523,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Italy",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "3009523.jpg",
+   "source": "https://www.discogs.com/release/3009523-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 811693,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "811693.jpg",
+   "source": "https://www.discogs.com/release/811693-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 690246,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Australia",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "690246.jpg",
+   "source": "https://www.discogs.com/release/690246-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 15238955,
+   "format": "LP, Album, Club Edition",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "DGC, Rough Trade",
+   "released": "1990",
+   "image": "15238955.jpg",
+   "source": "https://www.discogs.com/release/15238955-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 1567270,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "DGC, Rough Trade",
+   "released": "1990",
+   "image": "1567270.jpg",
+   "source": "https://www.discogs.com/release/1567270-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 547138,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "UK",
+   "label": "Rough Trade",
+   "released": "1990-01-15",
+   "image": "547138.jpg",
+   "source": "https://www.discogs.com/release/547138-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 10147030,
+   "format": "LP, Album, Repress",
+   "colour_or_text": "",
+   "country": "UK & Ireland",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "10147030.jpg",
+   "source": "https://www.discogs.com/release/10147030-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 3009488,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Brazil",
+   "label": "Stiletto, Rough Trade",
+   "released": "1990",
+   "image": "3009488.jpg",
+   "source": "https://www.discogs.com/release/3009488-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 6580097,
+   "format": "LP, Album, Limited Edition, Picture Disc",
+   "colour_or_text": "",
+   "country": "Australia & New Zealand",
+   "label": "Rough Trade, Festival Records",
+   "released": "1990",
+   "image": "6580097.jpg",
+   "source": "https://www.discogs.com/release/6580097-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 16753188,
+   "format": "LP, Album",
+   "colour_or_text": "Adrenalin Pressing",
+   "country": "UK",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "16753188.jpg",
+   "source": "https://www.discogs.com/release/16753188-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 2534686,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "France",
+   "label": "Virgin, Rough Trade",
+   "released": "1990",
+   "image": "2534686.jpg",
+   "source": "https://www.discogs.com/release/2534686-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 16412919,
+   "format": "LP, Album, Club Edition",
+   "colour_or_text": "Carrollton Pressing",
+   "country": "US",
+   "label": "DGC, Rough Trade",
+   "released": "1990",
+   "image": "16412919.jpg",
+   "source": "https://www.discogs.com/release/16412919-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 14164124,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "DGC",
+   "released": "1990",
+   "image": "14164124.jpg",
+   "source": "https://www.discogs.com/release/14164124-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 6833024,
+   "format": "LP, Album, Promo",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "DGC",
+   "released": "1990",
+   "image": "6833024.jpg",
+   "source": "https://www.discogs.com/release/6833024-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 6998002,
+   "format": "LP, Album, Promo, White Label",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "6998002.jpg",
+   "source": "https://www.discogs.com/release/6998002-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 660806,
+   "format": "LP, Album, Picture Disc",
+   "colour_or_text": "",
+   "country": "UK",
+   "label": "Rough Trade",
+   "released": "1990-01-15",
+   "image": "660806.jpg",
+   "source": "https://www.discogs.com/release/660806-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 1120928,
+   "format": "LP, Album, White Label",
+   "colour_or_text": "",
+   "country": "UK",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "1120928.jpg",
+   "source": "https://www.discogs.com/release/1120928-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 7865093,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "Italy",
+   "label": "Rough Trade",
+   "released": "1990",
+   "image": "7865093.jpg",
+   "source": "https://www.discogs.com/release/7865093-The-Sundays-Reading-Writing-And-Arithmetic"
+  },
+  {
+   "release_id": 1599265,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Spain",
+   "label": "Nuevos Medios, Nuevos Medios",
+   "released": "1990",
+   "image": "1599265.jpg",
+   "source": "https://www.discogs.com/release/1599265-The-Sundays-Reading-Writing-And-Arithmetic"
+  }
+ ]
+}

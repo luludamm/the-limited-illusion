@@ -1,0 +1,224 @@
+{
+ "master_id": 2124691,
+ "artist": "Japanese Breakfast",
+ "title": "Jubilee",
+ "year": 2021,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source). 'disc' = a photo of the record itself, picked by hand from the release's other catalogue images (same release page as source).",
+ "versions": [
+  {
+   "release_id": 21275353,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "colour_or_text": "Green Transparent",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-12-03",
+   "image": "21275353.jpg",
+   "source": "https://www.discogs.com/release/21275353-Japanese-Breakfast-Jubilee",
+   "disc": "21275353_disc.jpg"
+  },
+  {
+   "release_id": 21342085,
+   "format": "LP, Album",
+   "colour_or_text": "Yellow & Black Swirl",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "21342085.jpg",
+   "source": "https://www.discogs.com/release/21342085-Japanese-Breakfast-Jubilee-",
+   "disc": "21342085_disc.jpg"
+  },
+  {
+   "release_id": 21086185,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Yellow / Green [Radioactive Yellow]",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021",
+   "image": "21086185.jpg",
+   "source": "https://www.discogs.com/release/21086185-Japanese-Breakfast-Jubilee-",
+   "disc": "21086185_disc.jpg"
+  },
+  {
+   "release_id": 18988069,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18988069.jpg",
+   "source": "https://www.discogs.com/release/18988069-Japanese-Breakfast-Jubilee"
+  },
+  {
+   "release_id": 19423381,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear With Yellow Swirl",
+   "country": "Japan",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "19423381.jpg",
+   "source": "https://www.discogs.com/release/19423381-Japanese-Breakfast-Jubilee"
+  },
+  {
+   "release_id": 28021320,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021",
+   "image": "28021320.jpg",
+   "source": "https://www.discogs.com/release/28021320-Japanese-Breakfast-Jubilee"
+  },
+  {
+   "release_id": 25338562,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021",
+   "image": "25338562.jpg",
+   "source": "https://www.discogs.com/release/25338562-Japanese-Breakfast-Jubilee"
+  },
+  {
+   "release_id": 21174052,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Translucent Yellow",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "21174052.jpg",
+   "source": "https://www.discogs.com/release/21174052-Japanese-Breakfast-Jubilee",
+   "disc": "21174052_disc.jpg"
+  },
+  {
+   "release_id": 18983230,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Coke Bottle Clear",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18983230.jpg",
+   "source": "https://www.discogs.com/release/18983230-Japanese-Breakfast-Jubilee",
+   "disc": "18983230_disc.jpg"
+  },
+  {
+   "release_id": 18924697,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear With Yellow Swirl",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18924697.jpg",
+   "source": "https://www.discogs.com/release/18924697-Japanese-Breakfast-Jubilee",
+   "disc": "18924697_disc.jpg"
+  },
+  {
+   "release_id": 19007908,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear With Turquoise Swirl",
+   "country": "Europe",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "19007908.jpg",
+   "source": "https://www.discogs.com/release/19007908-Japanese-Breakfast-Jubilee-",
+   "disc": "19007908_disc.jpg"
+  },
+  {
+   "release_id": 18688387,
+   "format": "LP, Album, Club Edition, Limited Edition, Numbered, Stereo",
+   "colour_or_text": "Clear with Orange Swirl",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18688387.jpg",
+   "source": "https://www.discogs.com/release/18688387-Japanese-Breakfast-Jubilee",
+   "disc": "18688387_disc.jpg"
+  },
+  {
+   "release_id": 19055890,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Yellow Opaque",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "19055890.jpg",
+   "source": "https://www.discogs.com/release/19055890-Japanese-Breakfast-Jubilee-",
+   "disc": "19055890_disc.jpg"
+  },
+  {
+   "release_id": 31008070,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021",
+   "image": "31008070.jpg",
+   "source": "https://www.discogs.com/release/31008070-Japanese-Breakfast-Jubilee"
+  },
+  {
+   "release_id": 18925789,
+   "format": "LP, Album",
+   "colour_or_text": "Pink Translucent [Pink Glass]",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18925789.jpg",
+   "source": "https://www.discogs.com/release/18925789-Japanese-Breakfast-Jubilee",
+   "disc": "18925789_disc.jpg"
+  },
+  {
+   "release_id": 18935578,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Orange Clear",
+   "country": "US",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "18935578.jpg",
+   "source": "https://www.discogs.com/release/18935578-Japanese-Breakfast-Jubilee",
+   "disc": "18935578_disc.jpg"
+  },
+  {
+   "release_id": 19019221,
+   "format": "LP, Album, Club Edition, Limited Edition",
+   "colour_or_text": "Clear With Opaque Pink Swirl",
+   "country": "USA & Canada",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "19019221.jpg",
+   "source": "https://www.discogs.com/release/19019221-Japanese-Breakfast-Jubilee",
+   "disc": "19019221_disc.jpg"
+  },
+  {
+   "release_id": 24599510,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear with Yellow Swirl; Bandcamp Bundle: Jubilee Enamel Pin, Jubilee Slipmat",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021-06-04",
+   "image": "24599510.jpg",
+   "source": "https://www.discogs.com/release/24599510-Japanese-Breakfast-Jubilee",
+   "disc": "24599510_disc.jpg"
+  },
+  {
+   "release_id": 28906864,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Dead Oceans",
+   "released": "2021",
+   "image": "28906864.jpg",
+   "source": "https://www.discogs.com/release/28906864-Japanese-Breakfast-Jubilee",
+   "disc": "28906864_disc.jpg"
+  },
+  {
+   "release_id": 19008385,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear With Yellow Swirl",
+   "country": "UK & Europe",
+   "label": "Dead Oceans, Dead Oceans",
+   "released": "2021-06-04",
+   "image": "19008385.jpg",
+   "source": "https://www.discogs.com/release/19008385-Japanese-Breakfast-Jubilee",
+   "disc": "19008385_disc.jpg"
+  }
+ ]
+}

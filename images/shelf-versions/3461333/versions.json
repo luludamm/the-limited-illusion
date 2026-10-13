@@ -1,0 +1,193 @@
+{
+ "master_id": 3461333,
+ "artist": "Pearl Jam",
+ "title": "Dark Matter",
+ "year": 2024,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source). 'disc' = a photo of the record itself, picked by hand from the release's other catalogue images (same release page as source).",
+ "versions": [
+  {
+   "release_id": 30464276,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Gold, Silver Merge [Missoula Variant]",
+   "country": "US",
+   "label": "Monkeywrench / Republic",
+   "released": "2024-04-19",
+   "image": "30464276.jpg",
+   "source": "https://www.discogs.com/release/30464276-Pearl-Jam-Dark-Matter",
+   "disc": "30464276_disc.jpg"
+  },
+  {
+   "release_id": 30463415,
+   "format": "LP, Album, Limited Edition, Stereo",
+   "colour_or_text": "Orange And Blue Splatter [New York]",
+   "country": "US",
+   "label": "Monkey Wrench Records, Republic Records",
+   "released": "2024-04-19",
+   "image": "30463415.jpg",
+   "source": "https://www.discogs.com/release/30463415-Pearl-Jam-Dark-Matter",
+   "disc": "30463415_disc.jpg"
+  },
+  {
+   "release_id": 30476126,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Red Marble [Ten Club Variant]",
+   "country": "US",
+   "label": "Monkeywrench Records, Republic Records",
+   "released": "2024-04-19",
+   "image": "30476126.jpg",
+   "source": "https://www.discogs.com/release/30476126-Pearl-Jam-Dark-Matter",
+   "disc": "30476126_disc.jpg"
+  },
+  {
+   "release_id": 30442613,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Clear",
+   "country": "Worldwide",
+   "label": "Republic Records",
+   "released": "2024-04-19",
+   "image": "30442613.jpg",
+   "source": "https://www.discogs.com/release/30442613-Pearl-Jam-Dark-Matter"
+  },
+  {
+   "release_id": 30441359,
+   "format": "LP, Album, Record Store Day, Stereo",
+   "colour_or_text": "Yellow & Black Ghostly",
+   "country": "Worldwide",
+   "label": "Republic Records",
+   "released": "2024-04-20",
+   "image": "30441359.jpg",
+   "source": "https://www.discogs.com/release/30441359-Pearl-Jam-Dark-Matter",
+   "disc": "30441359_disc.jpg"
+  },
+  {
+   "release_id": 30471980,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Red/Navy [Boston Variant]",
+   "country": "US",
+   "label": "Monkey Wrench, Republic Records",
+   "released": "2024-04-19",
+   "image": "30471980.jpg",
+   "source": "https://www.discogs.com/release/30471980-Pearl-Jam-Dark-Matter"
+  },
+  {
+   "release_id": 30478769,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "Monkeywrench Records, Republic Records",
+   "released": "2024-04-19",
+   "image": "30478769.jpg",
+   "source": "https://www.discogs.com/release/30478769-Pearl-Jam-Dark-Matter",
+   "disc": "30478769_disc.jpg"
+  },
+  {
+   "release_id": 32796102,
+   "format": "LP, Album, Stereo",
+   "colour_or_text": "",
+   "country": "Europe",
+   "label": "Republic Records",
+   "released": "2024-04-19",
+   "image": "32796102.jpg",
+   "source": "https://www.discogs.com/release/32796102-Pearl-Jam-Dark-Matter"
+  },
+  {
+   "release_id": 30465755,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Orange & Black Marble [Philadelphia Variant]",
+   "country": "US",
+   "label": "Monkey Wrench Records, Republic Records",
+   "released": "2024-04-19",
+   "image": "30465755.jpg",
+   "source": "https://www.discogs.com/release/30465755-Pearl-Jam-Dark-Matter",
+   "disc": "30465755_disc.jpg"
+  },
+  {
+   "release_id": 30455819,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Silver & Black Galaxy [Las Vegas Variant]",
+   "country": "US",
+   "label": "Monkey Wrench, Republic Records",
+   "released": "2024-04-19",
+   "image": "30455819.jpg",
+   "source": "https://www.discogs.com/release/30455819-Pearl-Jam-Dark-Matter",
+   "disc": "30455819_disc.jpg"
+  },
+  {
+   "release_id": 30446789,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Green & Gold Merge [Northwest Variant]",
+   "country": "US",
+   "label": "Monkey Wrench, Republic Records",
+   "released": "2024-04-19",
+   "image": "30446789.jpg",
+   "source": "https://www.discogs.com/release/30446789-Pearl-Jam-Dark-Matter",
+   "disc": "30446789_disc.jpg"
+  },
+  {
+   "release_id": 30465077,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Red & Blue Galaxy [Chicago Variant]",
+   "country": "US",
+   "label": "Republic Records",
+   "released": "2024-04-20",
+   "image": "30465077.jpg",
+   "source": "https://www.discogs.com/release/30465077-Pearl-Jam-Dark-Matter",
+   "disc": "30465077_disc.jpg"
+  },
+  {
+   "release_id": 30443483,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Worldwide",
+   "label": "Republic Records",
+   "released": "2024-04-19",
+   "image": "30443483.jpg",
+   "source": "https://www.discogs.com/release/30443483-Pearl-Jam-Dark-Matter",
+   "disc": "30443483_disc.jpg"
+  },
+  {
+   "release_id": 32232387,
+   "format": "LP, Album, Limited Edition, Numbered, Picture Disc, Reissue",
+   "colour_or_text": "Zoetrope",
+   "country": "UK",
+   "label": "Monkeywrench Records, Republic Records",
+   "released": "2024-11-08",
+   "image": "32232387.jpg",
+   "source": "https://www.discogs.com/release/32232387-Pearl-Jam-Dark-Matter",
+   "disc": "32232387_disc.jpg"
+  },
+  {
+   "release_id": 30444773,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Purple & Yellow Galaxy [California Variant]",
+   "country": "US",
+   "label": "Monkey Wrench, Republic Records",
+   "released": "2024-04-19",
+   "image": "30444773.jpg",
+   "source": "https://www.discogs.com/release/30444773-Pearl-Jam-Dark-Matter",
+   "disc": "30444773_disc.jpg"
+  },
+  {
+   "release_id": 30442388,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Red, Black & Yellow Tricolor",
+   "country": "Europe",
+   "label": "Republic Records",
+   "released": "2024-04-19",
+   "image": "30442388.jpg",
+   "source": "https://www.discogs.com/release/30442388-Pearl-Jam-Dark-Matter",
+   "disc": "30442388_disc.jpg"
+  },
+  {
+   "release_id": 30436031,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "Red, White & Blue Tricolor",
+   "country": "Europe",
+   "label": "Republic Records",
+   "released": "2024-04-19",
+   "image": "30436031.jpg",
+   "source": "https://www.discogs.com/release/30436031-Pearl-Jam-Dark-Matter",
+   "disc": "30436031_disc.jpg"
+  }
+ ]
+}
