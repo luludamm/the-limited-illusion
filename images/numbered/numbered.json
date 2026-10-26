@@ -1,0 +1,69 @@
+{
+  "_note": "Ch. 02 Fig 02b: close-ups of records that state their quantity (src/ch2.js initNumbered). Fan / shop photos from Instagram posts tagging Music On Vinyl (downloaded by Lulu, 13 Oct 2026, images/scraped/instagram/), cropped 3:2 around the quantity line by Claude. 'mark' = the highlighter over those words, in % of the photo (x, y, w, h) and degrees (r). Not indie rock and not from the Discogs dataset: illustrations of what a stated quantity looks like. 'chip' = what the photo shows. Each photo links to its post.",
+  "photos": [
+    {
+      "file": "stamped-000806.jpg",
+      "chip": "No. 000806",
+      "alt": "The stamped number MOV 000806 on the back of a Music On Vinyl sleeve.",
+      "username": "kitschbitchkool",
+      "post_url": "https://www.instagram.com/p/DeAGm5mjlN5/",
+      "date": "2026-10-02",
+      "original": "kitschbitchkool/3999225530574328697_3999221978706452373.jpg",
+      "mark": {
+        "x": 22,
+        "y": 41,
+        "w": 55,
+        "h": 17,
+        "r": -3
+      }
+    },
+    {
+      "file": "divine-1000-numbered.jpg",
+      "chip": "1,000 numbered",
+      "alt": "Sticker: limited edition of 1000 individually numbered copies on translucent blue splattered vinyl.",
+      "username": "kitschbitchkool",
+      "post_url": "https://www.instagram.com/p/DeAGm5mjlN5/",
+      "date": "2026-10-02",
+      "original": "kitschbitchkool/3999225530574328697_3999221998100782145.jpg",
+      "mark": {
+        "x": 12.5,
+        "y": 39,
+        "w": 75,
+        "h": 17,
+        "r": -1
+      }
+    },
+    {
+      "file": "os-tincoas-1000-numbered.jpg",
+      "chip": "1,000 numbered",
+      "alt": "Sticker: limited edition of 1000 individually numbered copies on orange coloured vinyl.",
+      "username": "mossrecords.and.coffee",
+      "post_url": "https://www.instagram.com/p/DdvwwqwCRbD/",
+      "date": "2026-09-26",
+      "original": "mossrecords.and.coffee/3994625845171394243_3994624606737865620.jpg",
+      "mark": {
+        "x": 11,
+        "y": 39,
+        "w": 78,
+        "h": 22,
+        "r": 0
+      }
+    },
+    {
+      "file": "venom-5000-copies.jpg",
+      "chip": "5,000 copies",
+      "alt": "Sticker: limited edition of 5000 copies on translucent red coloured vinyl.",
+      "username": "wax_soundtrax",
+      "post_url": "https://www.instagram.com/p/DeUht2_mp4u/",
+      "date": "2026-10-10",
+      "original": "wax_soundtrax/4004974255599689262_4004973399302247855.jpg",
+      "mark": {
+        "x": 14,
+        "y": 49.5,
+        "w": 70,
+        "h": 11,
+        "r": 13
+      }
+    }
+  ]
+}

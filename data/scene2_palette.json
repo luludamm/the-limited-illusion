@@ -1,0 +1,277 @@
+{
+ "by_year": [
+  {
+   "year": 1990,
+   "colour_pct": 6.3,
+   "effect_pct": 0.7
+  },
+  {
+   "year": 1991,
+   "colour_pct": 10.2,
+   "effect_pct": 1.6
+  },
+  {
+   "year": 1992,
+   "colour_pct": 13.5,
+   "effect_pct": 1.8
+  },
+  {
+   "year": 1993,
+   "colour_pct": 16.1,
+   "effect_pct": 1.8
+  },
+  {
+   "year": 1994,
+   "colour_pct": 17.5,
+   "effect_pct": 1.3
+  },
+  {
+   "year": 1995,
+   "colour_pct": 19.6,
+   "effect_pct": 1.0
+  },
+  {
+   "year": 1996,
+   "colour_pct": 19.6,
+   "effect_pct": 1.6
+  },
+  {
+   "year": 1997,
+   "colour_pct": 18.1,
+   "effect_pct": 1.8
+  },
+  {
+   "year": 1998,
+   "colour_pct": 16.3,
+   "effect_pct": 1.7
+  },
+  {
+   "year": 1999,
+   "colour_pct": 19.3,
+   "effect_pct": 1.2
+  },
+  {
+   "year": 2000,
+   "colour_pct": 18.2,
+   "effect_pct": 1.8
+  },
+  {
+   "year": 2001,
+   "colour_pct": 19.7,
+   "effect_pct": 2.7
+  },
+  {
+   "year": 2002,
+   "colour_pct": 18.4,
+   "effect_pct": 1.8
+  },
+  {
+   "year": 2003,
+   "colour_pct": 19.2,
+   "effect_pct": 2.7
+  },
+  {
+   "year": 2004,
+   "colour_pct": 20.8,
+   "effect_pct": 2.3
+  },
+  {
+   "year": 2005,
+   "colour_pct": 20.5,
+   "effect_pct": 2.7
+  },
+  {
+   "year": 2006,
+   "colour_pct": 19.2,
+   "effect_pct": 1.7
+  },
+  {
+   "year": 2007,
+   "colour_pct": 22.2,
+   "effect_pct": 2.0
+  },
+  {
+   "year": 2008,
+   "colour_pct": 22.2,
+   "effect_pct": 3.2
+  },
+  {
+   "year": 2009,
+   "colour_pct": 20.9,
+   "effect_pct": 3.7
+  },
+  {
+   "year": 2010,
+   "colour_pct": 24.1,
+   "effect_pct": 3.7
+  },
+  {
+   "year": 2011,
+   "colour_pct": 26.5,
+   "effect_pct": 4.1
+  },
+  {
+   "year": 2012,
+   "colour_pct": 29.2,
+   "effect_pct": 4.0
+  },
+  {
+   "year": 2013,
+   "colour_pct": 32.1,
+   "effect_pct": 5.3
+  },
+  {
+   "year": 2014,
+   "colour_pct": 35.0,
+   "effect_pct": 6.2
+  },
+  {
+   "year": 2015,
+   "colour_pct": 34.9,
+   "effect_pct": 6.2
+  },
+  {
+   "year": 2016,
+   "colour_pct": 35.2,
+   "effect_pct": 7.2
+  },
+  {
+   "year": 2017,
+   "colour_pct": 36.5,
+   "effect_pct": 6.2
+  },
+  {
+   "year": 2018,
+   "colour_pct": 40.1,
+   "effect_pct": 7.3
+  },
+  {
+   "year": 2019,
+   "colour_pct": 42.6,
+   "effect_pct": 8.0
+  },
+  {
+   "year": 2020,
+   "colour_pct": 46.5,
+   "effect_pct": 8.9
+  },
+  {
+   "year": 2021,
+   "colour_pct": 52.6,
+   "effect_pct": 11.3
+  },
+  {
+   "year": 2022,
+   "colour_pct": 51.6,
+   "effect_pct": 10.4
+  },
+  {
+   "year": 2023,
+   "colour_pct": 50.7,
+   "effect_pct": 11.2
+  },
+  {
+   "year": 2024,
+   "colour_pct": 50.8,
+   "effect_pct": 11.6
+  },
+  {
+   "year": 2025,
+   "colour_pct": 49.3,
+   "effect_pct": 12.9
+  }
+ ],
+ "ranking": [
+  {
+   "word": "Clear / transparent",
+   "pct_of_described": 22.9
+  },
+  {
+   "word": "Blue",
+   "pct_of_described": 14.5
+  },
+  {
+   "word": "White",
+   "pct_of_described": 13.2
+  },
+  {
+   "word": "Red",
+   "pct_of_described": 11.5
+  },
+  {
+   "word": "Green",
+   "pct_of_described": 8.4
+  },
+  {
+   "word": "Yellow",
+   "pct_of_described": 6.9
+  },
+  {
+   "word": "Black",
+   "pct_of_described": 6.8
+  },
+  {
+   "word": "Pink",
+   "pct_of_described": 6.4
+  },
+  {
+   "word": "Orange",
+   "pct_of_described": 5.8
+  },
+  {
+   "word": "Splatter",
+   "pct_of_described": 5.8
+  },
+  {
+   "word": "Marble",
+   "pct_of_described": 5.6
+  },
+  {
+   "word": "Purple / violet",
+   "pct_of_described": 4.6
+  },
+  {
+   "word": "Grey / smoke",
+   "pct_of_described": 2.8
+  },
+  {
+   "word": "Gold",
+   "pct_of_described": 2.7
+  },
+  {
+   "word": "Swirl",
+   "pct_of_described": 2.5
+  },
+  {
+   "word": "Silver",
+   "pct_of_described": 1.4
+  },
+  {
+   "word": "Eco / recycled",
+   "pct_of_described": 0.5
+  },
+  {
+   "word": "Galaxy",
+   "pct_of_described": 0.4
+  },
+  {
+   "word": "Glow in the dark",
+   "pct_of_described": 0.3
+  },
+  {
+   "word": "Glitter",
+   "pct_of_described": 0.2
+  }
+ ],
+ "described_releases": 44730,
+ "no_description_pct": {
+  "all": 59.9,
+  "not_limited": 70.2,
+  "limited": 33.2
+ },
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-25"
+ }
+}

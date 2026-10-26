@@ -1,0 +1,89 @@
+{
+ "master_id": 200676,
+ "artist": "Hallelujah Ding Dong Happy Happy",
+ "title": "Hi!",
+ "year": 1991,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source).",
+ "versions": [
+  {
+   "release_id": 36557791,
+   "format": "LP, Album, Test Pressing, White Label",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "",
+   "source": "https://www.discogs.com/release/36557791-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35971453,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover3",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35971453.jpg",
+   "source": "https://www.discogs.com/release/35971453-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 1759423,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "1759423.jpg",
+   "source": "https://www.discogs.com/release/1759423-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35980597,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover5",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35980597.jpg",
+   "source": "https://www.discogs.com/release/35980597-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35971474,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover4",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35971474.jpg",
+   "source": "https://www.discogs.com/release/35971474-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35980603,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover6",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35980603.jpg",
+   "source": "https://www.discogs.com/release/35980603-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35963005,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover2",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35963005.jpg",
+   "source": "https://www.discogs.com/release/35963005-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  },
+  {
+   "release_id": 35962984,
+   "format": "LP, Album",
+   "colour_or_text": "Alternative Front Cover1",
+   "country": "Germany",
+   "label": "L'age D'or",
+   "released": "1991",
+   "image": "35962984.jpg",
+   "source": "https://www.discogs.com/release/35962984-Hallelujah-Ding-Dong-Happy-Happy-Hi"
+  }
+ ]
+}

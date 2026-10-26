@@ -1,0 +1,799 @@
+{
+ "older_albums_with_new_vinyl": 1591,
+ "albums": [
+  {
+   "master_id": 6126,
+   "artist": "Elliott Smith",
+   "title": "Either / Or",
+   "first_vinyl_year": 1997,
+   "releases_2015_2025": 24,
+   "limited_2015_2025": 17,
+   "years_with_a_release": 6,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 6,
+     "limited": 3
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2021,
+     "releases": 6,
+     "limited": 4
+    },
+    {
+     "year": 2022,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2023,
+     "releases": 6,
+     "limited": 4
+    },
+    {
+     "year": 2024,
+     "releases": 4,
+     "limited": 4
+    },
+    {
+     "year": 2025,
+     "releases": 0,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "Kill Rock Stars",
+     "releases": 23
+    },
+    {
+     "label": "Universal Music Group International",
+     "releases": 1
+    }
+   ]
+  },
+  {
+   "master_id": 191896,
+   "artist": "American Football",
+   "title": "American Football",
+   "first_vinyl_year": 2004,
+   "releases_2015_2025": 18,
+   "limited_2015_2025": 12,
+   "years_with_a_release": 9,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 2,
+     "limited": 2
+    },
+    {
+     "year": 2019,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2021,
+     "releases": 2,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 3,
+     "limited": 2
+    },
+    {
+     "year": 2023,
+     "releases": 4,
+     "limited": 3
+    },
+    {
+     "year": 2024,
+     "releases": 3,
+     "limited": 3
+    },
+    {
+     "year": 2025,
+     "releases": 1,
+     "limited": 1
+    }
+   ],
+   "labels": [
+    {
+     "label": "Polyvinyl Record Company",
+     "releases": 16
+    },
+    {
+     "label": "Balaclava Records",
+     "releases": 1
+    },
+    {
+     "label": "Bandbox (2)",
+     "releases": 1
+    }
+   ]
+  },
+  {
+   "master_id": 6138,
+   "artist": "Elliott Smith",
+   "title": "Elliott Smith",
+   "first_vinyl_year": 1995,
+   "releases_2015_2025": 18,
+   "limited_2015_2025": 8,
+   "years_with_a_release": 6,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 5,
+     "limited": 1
+    },
+    {
+     "year": 2021,
+     "releases": 5,
+     "limited": 1
+    },
+    {
+     "year": 2022,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2023,
+     "releases": 2,
+     "limited": 2
+    },
+    {
+     "year": 2024,
+     "releases": 3,
+     "limited": 2
+    },
+    {
+     "year": 2025,
+     "releases": 2,
+     "limited": 2
+    }
+   ],
+   "labels": [
+    {
+     "label": "Kill Rock Stars",
+     "releases": 18
+    }
+   ]
+  },
+  {
+   "master_id": 118534,
+   "artist": "Minus The Bear",
+   "title": "Menos El Oso",
+   "first_vinyl_year": 2005,
+   "releases_2015_2025": 17,
+   "limited_2015_2025": 9,
+   "years_with_a_release": 4,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 4,
+     "limited": 4
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2021,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 2,
+     "limited": 2
+    },
+    {
+     "year": 2023,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2024,
+     "releases": 3,
+     "limited": 2
+    },
+    {
+     "year": 2025,
+     "releases": 8,
+     "limited": 1
+    }
+   ],
+   "labels": [
+    {
+     "label": "Suicide Squeeze",
+     "releases": 17
+    }
+   ]
+  },
+  {
+   "master_id": 71471,
+   "artist": "The Killers",
+   "title": "Hot Fuss",
+   "first_vinyl_year": 2004,
+   "releases_2015_2025": 17,
+   "limited_2015_2025": 5,
+   "years_with_a_release": 6,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 3,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 5,
+     "limited": 1
+    },
+    {
+     "year": 2018,
+     "releases": 2,
+     "limited": 2
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2021,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 3,
+     "limited": 0
+    },
+    {
+     "year": 2023,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2024,
+     "releases": 3,
+     "limited": 2
+    },
+    {
+     "year": 2025,
+     "releases": 0,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "Island Records",
+     "releases": 17
+    }
+   ]
+  },
+  {
+   "master_id": 188509,
+   "artist": "Duster (2)",
+   "title": "Stratosphere",
+   "first_vinyl_year": 1998,
+   "releases_2015_2025": 15,
+   "limited_2015_2025": 9,
+   "years_with_a_release": 4,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 2,
+     "limited": 1
+    },
+    {
+     "year": 2020,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2021,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 4,
+     "limited": 2
+    },
+    {
+     "year": 2023,
+     "releases": 8,
+     "limited": 5
+    },
+    {
+     "year": 2024,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2025,
+     "releases": 0,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "Numero Group",
+     "releases": 15
+    }
+   ]
+  },
+  {
+   "master_id": 244377,
+   "artist": "Piebald",
+   "title": "We Are The Only Friends We Have",
+   "first_vinyl_year": 2002,
+   "releases_2015_2025": 15,
+   "limited_2015_2025": 10,
+   "years_with_a_release": 1,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2021,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2023,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2024,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2025,
+     "releases": 15,
+     "limited": 10
+    }
+   ],
+   "labels": [
+    {
+     "label": "Iodine Recordings",
+     "releases": 15
+    }
+   ]
+  },
+  {
+   "master_id": 6156,
+   "artist": "Elliott Smith",
+   "title": "Roman Candle",
+   "first_vinyl_year": 1998,
+   "releases_2015_2025": 14,
+   "limited_2015_2025": 8,
+   "years_with_a_release": 7,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2020,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2021,
+     "releases": 5,
+     "limited": 2
+    },
+    {
+     "year": 2022,
+     "releases": 1,
+     "limited": 1
+    },
+    {
+     "year": 2023,
+     "releases": 3,
+     "limited": 3
+    },
+    {
+     "year": 2024,
+     "releases": 2,
+     "limited": 1
+    },
+    {
+     "year": 2025,
+     "releases": 0,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "Kill Rock Stars",
+     "releases": 13
+    },
+    {
+     "label": "Universal Music",
+     "releases": 1
+    }
+   ]
+  },
+  {
+   "master_id": 16764,
+   "artist": "Pixies",
+   "title": "Doolittle",
+   "first_vinyl_year": 1989,
+   "releases_2015_2025": 13,
+   "limited_2015_2025": 4,
+   "years_with_a_release": 6,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 4,
+     "limited": 3
+    },
+    {
+     "year": 2020,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2021,
+     "releases": 4,
+     "limited": 1
+    },
+    {
+     "year": 2022,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2023,
+     "releases": 2,
+     "limited": 0
+    },
+    {
+     "year": 2024,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2025,
+     "releases": 1,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "4AD",
+     "releases": 13
+    }
+   ]
+  },
+  {
+   "master_id": 9238,
+   "artist": "Interpol",
+   "title": "Antics",
+   "first_vinyl_year": 2004,
+   "releases_2015_2025": 13,
+   "limited_2015_2025": 6,
+   "years_with_a_release": 6,
+   "by_year": [
+    {
+     "year": 2015,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2016,
+     "releases": 1,
+     "limited": 0
+    },
+    {
+     "year": 2017,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2018,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2019,
+     "releases": 2,
+     "limited": 1
+    },
+    {
+     "year": 2020,
+     "releases": 4,
+     "limited": 1
+    },
+    {
+     "year": 2021,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2022,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2023,
+     "releases": 0,
+     "limited": 0
+    },
+    {
+     "year": 2024,
+     "releases": 4,
+     "limited": 4
+    },
+    {
+     "year": 2025,
+     "releases": 1,
+     "limited": 0
+    }
+   ],
+   "labels": [
+    {
+     "label": "Matador",
+     "releases": 13
+    }
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "label": "Music On Vinyl",
+   "releases": 125,
+   "albums": 80
+  },
+  {
+   "label": "Matador",
+   "releases": 104,
+   "albums": 37
+  },
+  {
+   "label": "Kill Rock Stars",
+   "releases": 104,
+   "albums": 16
+  },
+  {
+   "label": "Numero Group",
+   "releases": 87,
+   "albums": 21
+  },
+  {
+   "label": "Sub Pop",
+   "releases": 78,
+   "albums": 27
+  },
+  {
+   "label": "4AD",
+   "releases": 76,
+   "albums": 27
+  },
+  {
+   "label": "Fire Records",
+   "releases": 69,
+   "albums": 36
+  },
+  {
+   "label": "Optic Nerve Recordings",
+   "releases": 68,
+   "albums": 50
+  },
+  {
+   "label": "Polyvinyl Record Company",
+   "releases": 54,
+   "albums": 17
+  },
+  {
+   "label": "Merge Records",
+   "releases": 53,
+   "albums": 26
+  }
+ ],
+ "meta": {
+  "source": "dump_indie_rock_vinyl_2026-10-01.csv",
+  "older": "first vinyl release of the master in this dataset <= 2005",
+  "window": "2015-2025",
+  "unit": "Discogs release entries (vinyl)"
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "master_id": 46339,
+ "artist": "Inspiral Carpets",
+ "title": "Life",
+ "year": 1990,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source).",
+ "versions": [
+  {
+   "release_id": 1974213,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Argentina",
+   "label": "ABR Discos, Mute, Cow, ToCo International",
+   "released": "1990",
+   "image": "1974213.jpg",
+   "source": "https://www.discogs.com/release/1974213-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 848301,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Mute, Mute",
+   "released": "1990-04-23",
+   "image": "848301.jpg",
+   "source": "https://www.discogs.com/release/848301-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 4143078,
+   "format": "LP, Album",
+   "colour_or_text": "Embossed Sleeve",
+   "country": "Spain",
+   "label": "Mute",
+   "released": "1990",
+   "image": "4143078.jpg",
+   "source": "https://www.discogs.com/release/4143078-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 9093066,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Spain",
+   "label": "Mute",
+   "released": "1990",
+   "image": "9093066.jpg",
+   "source": "https://www.discogs.com/release/9093066-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 336123,
+   "format": "LP, Album",
+   "colour_or_text": "Embossed Sleeve",
+   "country": "UK",
+   "label": "Mute, Cow",
+   "released": "1990-04-23",
+   "image": "336123.jpg",
+   "source": "https://www.discogs.com/release/336123-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 5486409,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Australia",
+   "label": "Mute",
+   "released": "1990-06-00",
+   "image": "5486409.jpg",
+   "source": "https://www.discogs.com/release/5486409-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 7485843,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "Greece",
+   "label": "Virgin, Mute",
+   "released": "1990",
+   "image": "7485843.jpg",
+   "source": "https://www.discogs.com/release/7485843-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 8146957,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Mute",
+   "released": "1990",
+   "image": "8146957.jpg",
+   "source": "https://www.discogs.com/release/8146957-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 2154857,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Belgium",
+   "label": "Mute",
+   "released": "1990-04-23",
+   "image": "2154857.jpg",
+   "source": "https://www.discogs.com/release/2154857-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 30581875,
+   "format": "LP, Promo, Stereo",
+   "colour_or_text": "",
+   "country": "Spain",
+   "label": "Mute",
+   "released": "1990",
+   "image": "30581875.jpg",
+   "source": "https://www.discogs.com/release/30581875-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 2963684,
+   "format": "LP, Album",
+   "colour_or_text": "Unembossed Sleeve",
+   "country": "UK",
+   "label": "Mute",
+   "released": "1990-04-23",
+   "image": "2963684.jpg",
+   "source": "https://www.discogs.com/release/2963684-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 16387149,
+   "format": "LP, Album",
+   "colour_or_text": "embossed sleeve",
+   "country": "Europe",
+   "label": "Mute",
+   "released": "1990-04-23",
+   "image": "16387149.jpg",
+   "source": "https://www.discogs.com/release/16387149-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 5370039,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "France",
+   "label": "Mute",
+   "released": "1990",
+   "image": "5370039.jpg",
+   "source": "https://www.discogs.com/release/5370039-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 2721581,
+   "format": "LP, Album, Stereo",
+   "colour_or_text": "",
+   "country": "Greece",
+   "label": "Virgin, Mute, Cow",
+   "released": "1990",
+   "image": "2721581.jpg",
+   "source": "https://www.discogs.com/release/2721581-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 5011521,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Italy",
+   "label": "Mute",
+   "released": "1990",
+   "image": "5011521.jpg",
+   "source": "https://www.discogs.com/release/5011521-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 6436997,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Czechoslovakia",
+   "label": "Mute Czechoslovakia",
+   "released": "1990",
+   "image": "6436997.jpg",
+   "source": "https://www.discogs.com/release/6436997-Inspiral-Carpets-Life"
+  },
+  {
+   "release_id": 4991169,
+   "format": "LP, Album, Limited Edition, Reissue",
+   "colour_or_text": "Embossed Cover",
+   "country": "Australia",
+   "label": "Liberation Records",
+   "released": "1990-08-20",
+   "image": "4991169.jpg",
+   "source": "https://www.discogs.com/release/4991169-Inspiral-Carpets-Life"
+  }
+ ]
+}

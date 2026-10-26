@@ -1,0 +1,40 @@
+{
+ "limited_versions": 207,
+ "albums": 95,
+ "identical": 172,
+ "identical_pct": 83.1,
+ "extra_tracks": 5,
+ "extra_tracks_pct": 2.4,
+ "groups": [
+  {
+   "match": "identical",
+   "versions": 172,
+   "pct": 83.1
+  },
+  {
+   "match": "different",
+   "versions": 22,
+   "pct": 10.6
+  },
+  {
+   "match": "fewer tracks",
+   "versions": 6,
+   "pct": 2.9
+  },
+  {
+   "match": "extra tracks",
+   "versions": 5,
+   "pct": 2.4
+  },
+  {
+   "match": "same songs, other order",
+   "versions": 2,
+   "pct": 1.0
+  }
+ ],
+ "meta": {
+  "source": "Discogs API, tracklists collected 11 Oct 2026 (album versions of 3 Oct 2026, Indie Rock, Vinyl)",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-25"
+ }
+}

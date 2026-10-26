@@ -1,0 +1,169 @@
+{
+ "master_id": 12876,
+ "artist": "The Charlatans",
+ "title": "Some Friendly",
+ "year": 1990,
+ "note": "Vinyl versions released in the album's year, from the Discogs API (catalogue images, release pages as source).",
+ "versions": [
+  {
+   "release_id": 6591526,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Australasia",
+   "label": "RCA, Beggars Banquet, Dead Dead Good",
+   "released": "1990-12-03",
+   "image": "6591526.jpg",
+   "source": "https://www.discogs.com/release/6591526-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 3211994,
+   "format": "LP, Album, Stereo",
+   "colour_or_text": "",
+   "country": "Greece",
+   "label": "Virgin",
+   "released": "1990",
+   "image": "3211994.jpg",
+   "source": "https://www.discogs.com/release/3211994-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 635541,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "UK",
+   "label": "Situation Two",
+   "released": "1990-10-08",
+   "image": "635541.jpg",
+   "source": "https://www.discogs.com/release/635541-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 13125181,
+   "format": "LP, Album, Test Pressing",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Not On Label",
+   "released": "1990",
+   "image": "13125181.jpg",
+   "source": "https://www.discogs.com/release/13125181-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 8327534,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Scandinavia",
+   "label": "Situation Two",
+   "released": "1990",
+   "image": "8327534.jpg",
+   "source": "https://www.discogs.com/release/8327534-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 15455435,
+   "format": "LP, Album, White Label",
+   "colour_or_text": "PVC Sleeve",
+   "country": "UK",
+   "label": "Situation Two",
+   "released": "1990",
+   "image": "15455435.jpg",
+   "source": "https://www.discogs.com/release/15455435-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 575559,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Rebel Rec.",
+   "released": "1990",
+   "image": "575559.jpg",
+   "source": "https://www.discogs.com/release/575559-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 692105,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "White PVC Sleeve",
+   "country": "UK",
+   "label": "Situation Two, Dead Dead Good, Situation Two, Dead Dead Good",
+   "released": "1990-10-08",
+   "image": "692105.jpg",
+   "source": "https://www.discogs.com/release/692105-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 1653826,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Spain",
+   "label": "Victoria, Beggars Banquet",
+   "released": "1990",
+   "image": "1653826.jpg",
+   "source": "https://www.discogs.com/release/1653826-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 1980387,
+   "format": "LP, Album, Limited Edition",
+   "colour_or_text": "",
+   "country": "Italy",
+   "label": "Beggars Banquet",
+   "released": "1990",
+   "image": "1980387.jpg",
+   "source": "https://www.discogs.com/release/1980387-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 1778992,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "US",
+   "label": "RCA, Beggars Banquet",
+   "released": "1990",
+   "image": "1778992.jpg",
+   "source": "https://www.discogs.com/release/1778992-The-Charlatans-UK-Some-Friendly"
+  },
+  {
+   "release_id": 1217225,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "Belgium",
+   "label": "Situation Two, Dead Dead Good",
+   "released": "1990",
+   "image": "1217225.jpg",
+   "source": "https://www.discogs.com/release/1217225-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 9919941,
+   "format": "LP, Album, White Label",
+   "colour_or_text": "",
+   "country": "Italy",
+   "label": "Beggars Banquet",
+   "released": "1990",
+   "image": "9919941.jpg",
+   "source": "https://www.discogs.com/release/9919941-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 3689482,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "France",
+   "label": "Situation Two",
+   "released": "1990-10-15",
+   "image": "3689482.jpg",
+   "source": "https://www.discogs.com/release/3689482-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 4769376,
+   "format": "LP, Album",
+   "colour_or_text": "",
+   "country": "South Africa",
+   "label": "Transistor Music",
+   "released": "1990-10-08",
+   "image": "4769376.jpg",
+   "source": "https://www.discogs.com/release/4769376-The-Charlatans-Some-Friendly"
+  },
+  {
+   "release_id": 11581180,
+   "format": "LP, Album, Promo, White Label",
+   "colour_or_text": "",
+   "country": "Germany",
+   "label": "Rebel Rec.",
+   "released": "1990-10-08",
+   "image": "11581180.jpg",
+   "source": "https://www.discogs.com/release/11581180-The-Charlatans-Some-Friendly"
+  }
+ ]
+}

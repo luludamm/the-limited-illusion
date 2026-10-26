@@ -1,0 +1,797 @@
+{
+ "_note": "Coloured vinyl photos posted on Pinterest (collected by Lulu with gallery-dl, 12 Oct 2026: related pins of 1115766876478165160 and 14847873767216430, searches 'orange/pink/purple/red/smoke/white/yellow vinyl'); selected and cropped by Claude. Not from the Discogs dataset. primary = the photo's main colour/effect word of scene2_palette.json (judged by eye); words = every word it shows. The page picks photos per word in proportion to the word's share in scene2_palette.json.",
+ "photos": [
+  {
+   "file": "086.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue"
+   ],
+   "title": "",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031505328515/"
+  },
+  {
+   "file": "027.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue",
+    "Marble"
+   ],
+   "title": "Taylor Swift — Midnights",
+   "user": "WhiteVibes749",
+   "pin": "https://www.pinterest.com/pin/725572190010519569/"
+  },
+  {
+   "file": "102.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue",
+    "Clear / transparent",
+    "Marble"
+   ],
+   "title": "Lorde — Solar Power",
+   "user": "roemerjim",
+   "pin": "https://www.pinterest.com/pin/591308626107174564/"
+  },
+  {
+   "file": "097.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue",
+    "White"
+   ],
+   "title": "Troye Sivan — In a Dream",
+   "user": "wadebmanville",
+   "pin": "https://www.pinterest.com/pin/478789004145747228/"
+  },
+  {
+   "file": "090.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue",
+    "Black",
+    "Marble"
+   ],
+   "title": "Phoebe Bridgers — Punisher",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031507008882/"
+  },
+  {
+   "file": "091.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue"
+   ],
+   "title": "Nirvana",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031507686420/"
+  },
+  {
+   "file": "107.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue"
+   ],
+   "title": "Sabrina Carpenter — Espresso",
+   "user": "bcom1150557",
+   "pin": "https://www.pinterest.com/pin/666392076159072130/"
+  },
+  {
+   "file": "122.jpg",
+   "primary": "Blue",
+   "words": [
+    "Blue",
+    "Marble"
+   ],
+   "title": "Noah Kahan — Cape Elizabeth",
+   "user": "nvelancaster",
+   "pin": "https://www.pinterest.com/pin/774830310920429536/"
+  },
+  {
+   "file": "030.jpg",
+   "primary": "White",
+   "words": [
+    "White",
+    "Blue"
+   ],
+   "title": "",
+   "user": "binhphan140395",
+   "pin": "https://www.pinterest.com/pin/803329652319797559/"
+  },
+  {
+   "file": "070.jpg",
+   "primary": "White",
+   "words": [
+    "White",
+    "Blue"
+   ],
+   "title": "",
+   "user": "rfazelnia",
+   "pin": "https://www.pinterest.com/pin/186829084514303268/"
+  },
+  {
+   "file": "018.jpg",
+   "primary": "Red",
+   "words": [
+    "Red",
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "briangwhite7",
+   "pin": "https://www.pinterest.com/pin/432486370457051987/"
+  },
+  {
+   "file": "064.jpg",
+   "primary": "Red",
+   "words": [
+    "Red",
+    "White",
+    "Splatter"
+   ],
+   "title": "Hannibal (soundtrack)",
+   "user": "ilovechipmyeboy",
+   "pin": "https://www.pinterest.com/pin/1139692249578324048/"
+  },
+  {
+   "file": "075.jpg",
+   "primary": "Red",
+   "words": [
+    "Red",
+    "White",
+    "Black"
+   ],
+   "title": "Ariel Loh — The Eyes of My Mother",
+   "user": "maryparodi",
+   "pin": "https://www.pinterest.com/pin/308285537004291855/"
+  },
+  {
+   "file": "050.jpg",
+   "primary": "Green",
+   "words": [
+    "Green"
+   ],
+   "title": "Charli xcx — Brat and It’s Completely Different",
+   "user": "pretty_inst_pretty20272",
+   "pin": "https://www.pinterest.com/pin/1037446464173653950/"
+  },
+  {
+   "file": "017.jpg",
+   "primary": "Green",
+   "words": [
+    "Green",
+    "Marble"
+   ],
+   "title": "Taylor Swift — The Life of a Showgirl",
+   "user": "venusiann",
+   "pin": "https://www.pinterest.com/pin/399483429470566346/"
+  },
+  {
+   "file": "019.jpg",
+   "primary": "Green",
+   "words": [
+    "Green",
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031504777040/"
+  },
+  {
+   "file": "067.jpg",
+   "primary": "Green",
+   "words": [
+    "Green",
+    "Black",
+    "Marble"
+   ],
+   "title": "",
+   "user": "mzbzz",
+   "pin": "https://www.pinterest.com/pin/120189883797972184/"
+  },
+  {
+   "file": "099.jpg",
+   "primary": "Green",
+   "words": [
+    "Green",
+    "Black"
+   ],
+   "title": "",
+   "user": "ryan_tiamat",
+   "pin": "https://www.pinterest.com/pin/537617274250927403/"
+  },
+  {
+   "file": "142.jpg",
+   "primary": "Black",
+   "words": [
+    "Black",
+    "Blue",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "michhbrown",
+   "pin": "https://www.pinterest.com/pin/981573681287214589/"
+  },
+  {
+   "file": "074.jpg",
+   "primary": "Black",
+   "words": [
+    "Black",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "maryparodi",
+   "pin": "https://www.pinterest.com/pin/308285537004291850/"
+  },
+  {
+   "file": "008.jpg",
+   "primary": "Orange",
+   "words": [
+    "Orange",
+    "Marble"
+   ],
+   "title": "",
+   "user": "borgattiloh301",
+   "pin": "https://www.pinterest.com/pin/1095008096922988007/"
+  },
+  {
+   "file": "076.jpg",
+   "primary": "Splatter",
+   "words": [
+    "Blue",
+    "White",
+    "Splatter"
+   ],
+   "title": "Etta James — Rocks the House",
+   "user": "Simo_1201",
+   "pin": "https://www.pinterest.com/pin/339107046955125279/"
+  },
+  {
+   "file": "133.jpg",
+   "primary": "Splatter",
+   "words": [
+    "Blue",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "roratnuts",
+   "pin": "https://www.pinterest.com/pin/874331715158455682/"
+  },
+  {
+   "file": "093.jpg",
+   "primary": "Splatter",
+   "words": [
+    "Yellow",
+    "Orange",
+    "Red",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031508164838/"
+  },
+  {
+   "file": "073.jpg",
+   "primary": "Splatter",
+   "words": [
+    "Green",
+    "Blue",
+    "Splatter"
+   ],
+   "title": "Home Grown — Kings of Pop",
+   "user": "falcon_x",
+   "pin": "https://www.pinterest.com/pin/296111744230466592/"
+  },
+  {
+   "file": "052.jpg",
+   "primary": "Splatter",
+   "words": [
+    "Clear / transparent",
+    "Splatter",
+    "Blue"
+   ],
+   "title": "",
+   "user": "080808SJ",
+   "pin": "https://www.pinterest.com/pin/1045187026022148174/"
+  },
+  {
+   "file": "061.jpg",
+   "primary": "Marble",
+   "words": [
+    "Blue",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "animatedart0099",
+   "pin": "https://www.pinterest.com/pin/1121959326098776207/"
+  },
+  {
+   "file": "059.jpg",
+   "primary": "Marble",
+   "words": [
+    "Blue",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "zebolados",
+   "pin": "https://www.pinterest.com/pin/1115766876478165160/"
+  },
+  {
+   "file": "003.jpg",
+   "primary": "Marble",
+   "words": [
+    "Blue",
+    "White",
+    "Marble"
+   ],
+   "title": "Katy Perry — One of the Boys",
+   "user": "pretty_inst_pretty20272",
+   "pin": "https://www.pinterest.com/pin/1037446464175957699/"
+  },
+  {
+   "file": "022.jpg",
+   "primary": "Marble",
+   "words": [
+    "Blue",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "valeria_gsj",
+   "pin": "https://www.pinterest.com/pin/520517669454875902/"
+  },
+  {
+   "file": "117.jpg",
+   "primary": "Purple / violet",
+   "words": [
+    "Purple / violet",
+    "Black"
+   ],
+   "title": "",
+   "user": "vmariaaaa",
+   "pin": "https://www.pinterest.com/pin/729723945907697075/"
+  },
+  {
+   "file": "021.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent",
+    "Splatter",
+    "Blue"
+   ],
+   "title": "",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031508074683/"
+  },
+  {
+   "file": "088.jpg",
+   "primary": "Green",
+   "words": [
+    "Green",
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "emanresunekat",
+   "pin": "https://www.pinterest.com/pin/450360031505685959/"
+  },
+  {
+   "file": "n151.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "precziosoa",
+   "pin": "https://www.pinterest.com/pin/1109011477022518934/"
+  },
+  {
+   "file": "n155.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "delleliz",
+   "pin": "https://www.pinterest.com/pin/189432728075158017/"
+  },
+  {
+   "file": "n160.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "bmroberts69",
+   "pin": "https://www.pinterest.com/pin/2322237303553567/"
+  },
+  {
+   "file": "n176.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "Joji — Ballads 1",
+   "user": "orderatab",
+   "pin": "https://www.pinterest.com/pin/62065301109205273/"
+  },
+  {
+   "file": "n213.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "eclipse0fvenus",
+   "pin": "https://www.pinterest.com/pin/1090011916090556199/"
+  },
+  {
+   "file": "n218.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "Faust",
+   "user": "NYAHXM",
+   "pin": "https://www.pinterest.com/pin/416583034292044225/"
+  },
+  {
+   "file": "n230.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "motioningrain",
+   "pin": "https://www.pinterest.com/pin/671669731945920978/"
+  },
+  {
+   "file": "n232.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "andresvares",
+   "pin": "https://www.pinterest.com/pin/742038476143852061/"
+  },
+  {
+   "file": "n234.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "rixy1289sjs",
+   "pin": "https://www.pinterest.com/pin/784118985157686237/"
+  },
+  {
+   "file": "n240.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent",
+    "White"
+   ],
+   "title": "",
+   "user": "Famouswallpapers",
+   "pin": "https://www.pinterest.com/pin/947937421580352726/"
+  },
+  {
+   "file": "n153.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent"
+   ],
+   "title": "",
+   "user": "wooojin",
+   "pin": "https://www.pinterest.com/pin/14847873767270824/"
+  },
+  {
+   "file": "n128.jpg",
+   "primary": "Clear / transparent",
+   "words": [
+    "Clear / transparent",
+    "Purple / violet"
+   ],
+   "title": "Ariana Grande — Yours Truly",
+   "user": "xoxozann",
+   "pin": "https://www.pinterest.com/pin/3377768467998978/"
+  },
+  {
+   "file": "n163.jpg",
+   "primary": "White",
+   "words": [
+    "White"
+   ],
+   "title": "",
+   "user": "amandahandson",
+   "pin": "https://www.pinterest.com/pin/281052832990842685/"
+  },
+  {
+   "file": "n169.jpg",
+   "primary": "White",
+   "words": [
+    "White"
+   ],
+   "title": "",
+   "user": "lauritacdm",
+   "pin": "https://www.pinterest.com/pin/4362930883881433/"
+  },
+  {
+   "file": "n159.jpg",
+   "primary": "White",
+   "words": [
+    "White",
+    "Marble",
+    "Black"
+   ],
+   "title": "Charli xcx — Brat",
+   "user": "irfantaufk",
+   "pin": "https://www.pinterest.com/pin/228276274858782353/"
+  },
+  {
+   "file": "n165.jpg",
+   "primary": "White",
+   "words": [
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "zacharykarl",
+   "pin": "https://www.pinterest.com/pin/322007442128816153/"
+  },
+  {
+   "file": "n154.jpg",
+   "primary": "White",
+   "words": [
+    "White",
+    "Marble",
+    "Black"
+   ],
+   "title": "",
+   "user": "ashtonberry7",
+   "pin": "https://www.pinterest.com/pin/15833036184479977/"
+  },
+  {
+   "file": "n094.jpg",
+   "primary": "Red",
+   "words": [
+    "Red"
+   ],
+   "title": "Lana Del Rey — Blue Banisters",
+   "user": "anaflouro",
+   "pin": "https://www.pinterest.com/pin/14496030044517379/"
+  },
+  {
+   "file": "n103.jpg",
+   "primary": "Red",
+   "words": [
+    "Red",
+    "Black",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "dogkillmen",
+   "pin": "https://www.pinterest.com/pin/320318592274646618/"
+  },
+  {
+   "file": "n108.jpg",
+   "primary": "Red",
+   "words": [
+    "Red"
+   ],
+   "title": "",
+   "user": "andresbleimer",
+   "pin": "https://www.pinterest.com/pin/4433299624627601/"
+  },
+  {
+   "file": "n109.jpg",
+   "primary": "Red",
+   "words": [
+    "Red",
+    "Black",
+    "Marble"
+   ],
+   "title": "",
+   "user": "wadebmanville",
+   "pin": "https://www.pinterest.com/pin/478789004160002318/"
+  },
+  {
+   "file": "n201.jpg",
+   "primary": "Yellow",
+   "words": [
+    "Yellow",
+    "Black",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "franksandres",
+   "pin": "https://www.pinterest.com/pin/397020523424977630/"
+  },
+  {
+   "file": "n183.jpg",
+   "primary": "Yellow",
+   "words": [
+    "Yellow"
+   ],
+   "title": "Beyoncé — Lemonade",
+   "user": "simritkg",
+   "pin": "https://www.pinterest.com/pin/118078821475919819/"
+  },
+  {
+   "file": "n202.jpg",
+   "primary": "Yellow",
+   "words": [
+    "Yellow",
+    "Clear / transparent"
+   ],
+   "title": "Steve Queralt — Swallow",
+   "user": "rarevinylcom",
+   "pin": "https://www.pinterest.com/pin/4606056647323937856/"
+  },
+  {
+   "file": "n207.jpg",
+   "primary": "Yellow",
+   "words": [
+    "Yellow",
+    "Orange"
+   ],
+   "title": "The Voyager Golden Record",
+   "user": "edward8169",
+   "pin": "https://www.pinterest.com/pin/75364993760761378/"
+  },
+  {
+   "file": "n137.jpg",
+   "primary": "Black",
+   "words": [
+    "Black",
+    "White",
+    "Marble"
+   ],
+   "title": "Kumasi — Live at Marigny Studios",
+   "user": "sampress",
+   "pin": "https://www.pinterest.com/pin/63191201017731176/"
+  },
+  {
+   "file": "n063.jpg",
+   "primary": "Black",
+   "words": [
+    "Black",
+    "Purple / violet"
+   ],
+   "title": "",
+   "user": "ttinkle",
+   "pin": "https://www.pinterest.com/pin/1477812375310452/"
+  },
+  {
+   "file": "n058.jpg",
+   "primary": "Pink",
+   "words": [
+    "Pink"
+   ],
+   "title": "",
+   "user": "Mikadelik",
+   "pin": "https://www.pinterest.com/pin/7881368096197956/"
+  },
+  {
+   "file": "n045.jpg",
+   "primary": "Pink",
+   "words": [
+    "Pink",
+    "Black",
+    "Marble"
+   ],
+   "title": "",
+   "user": "allisonnicoles",
+   "pin": "https://www.pinterest.com/pin/35254809576422777/"
+  },
+  {
+   "file": "n036.jpg",
+   "primary": "Pink",
+   "words": [
+    "Pink",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "sissianaeq",
+   "pin": "https://www.pinterest.com/pin/161425967889599218/"
+  },
+  {
+   "file": "n049.jpg",
+   "primary": "Pink",
+   "words": [
+    "Pink",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "nuriaharosan",
+   "pin": "https://www.pinterest.com/pin/41728734045351211/"
+  },
+  {
+   "file": "n011.jpg",
+   "primary": "Orange",
+   "words": [
+    "Orange"
+   ],
+   "title": "Norah Jones — Day Breaks",
+   "user": "craignm",
+   "pin": "https://www.pinterest.com/pin/19140367163729179/"
+  },
+  {
+   "file": "n021.jpg",
+   "primary": "Orange",
+   "words": [
+    "Orange",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "anabanana7158",
+   "pin": "https://www.pinterest.com/pin/57561701485405935/"
+  },
+  {
+   "file": "n023.jpg",
+   "primary": "Orange",
+   "words": [
+    "Orange",
+    "White",
+    "Splatter"
+   ],
+   "title": "",
+   "user": "orderatab",
+   "pin": "https://www.pinterest.com/pin/62065301109211636/"
+  },
+  {
+   "file": "n013.jpg",
+   "primary": "Orange",
+   "words": [
+    "Orange",
+    "Yellow",
+    "Marble"
+   ],
+   "title": "",
+   "user": "Mrkwskyy",
+   "pin": "https://www.pinterest.com/pin/23292123062904405/"
+  },
+  {
+   "file": "n088.jpg",
+   "primary": "Purple / violet",
+   "words": [
+    "Purple / violet",
+    "Black",
+    "Splatter"
+   ],
+   "title": "Princess of Power (deluxe)",
+   "user": "susuixo",
+   "pin": "https://www.pinterest.com/pin/806355508329791000/"
+  },
+  {
+   "file": "n066.jpg",
+   "primary": "Purple / violet",
+   "words": [
+    "Purple / violet",
+    "Blue",
+    "Marble"
+   ],
+   "title": "The Midnight — Monsters",
+   "user": "Mrkwskyy",
+   "pin": "https://www.pinterest.com/pin/23292123062904339/"
+  },
+  {
+   "file": "n084.jpg",
+   "primary": "Purple / violet",
+   "words": [
+    "Purple / violet",
+    "White",
+    "Marble"
+   ],
+   "title": "",
+   "user": "Mikadelik",
+   "pin": "https://www.pinterest.com/pin/7881368095611364/"
+  }
+ ]
+}

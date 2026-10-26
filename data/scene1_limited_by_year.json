@@ -1,0 +1,225 @@
+{
+ "by_year": [
+  {
+   "year": 1990,
+   "total": 3369,
+   "limited": 191,
+   "limited_pct": 5.7
+  },
+  {
+   "year": 1991,
+   "total": 3458,
+   "limited": 203,
+   "limited_pct": 5.9
+  },
+  {
+   "year": 1992,
+   "total": 2804,
+   "limited": 204,
+   "limited_pct": 7.3
+  },
+  {
+   "year": 1993,
+   "total": 2345,
+   "limited": 224,
+   "limited_pct": 9.6
+  },
+  {
+   "year": 1994,
+   "total": 2316,
+   "limited": 270,
+   "limited_pct": 11.7
+  },
+  {
+   "year": 1995,
+   "total": 2375,
+   "limited": 287,
+   "limited_pct": 12.1
+  },
+  {
+   "year": 1996,
+   "total": 2145,
+   "limited": 298,
+   "limited_pct": 13.9
+  },
+  {
+   "year": 1997,
+   "total": 1898,
+   "limited": 256,
+   "limited_pct": 13.5
+  },
+  {
+   "year": 1998,
+   "total": 1519,
+   "limited": 206,
+   "limited_pct": 13.6
+  },
+  {
+   "year": 1999,
+   "total": 1359,
+   "limited": 179,
+   "limited_pct": 13.2
+  },
+  {
+   "year": 2000,
+   "total": 1267,
+   "limited": 171,
+   "limited_pct": 13.5
+  },
+  {
+   "year": 2001,
+   "total": 1169,
+   "limited": 162,
+   "limited_pct": 13.9
+  },
+  {
+   "year": 2002,
+   "total": 1109,
+   "limited": 209,
+   "limited_pct": 18.8
+  },
+  {
+   "year": 2003,
+   "total": 1265,
+   "limited": 240,
+   "limited_pct": 19.0
+  },
+  {
+   "year": 2004,
+   "total": 1339,
+   "limited": 249,
+   "limited_pct": 18.6
+  },
+  {
+   "year": 2005,
+   "total": 1755,
+   "limited": 384,
+   "limited_pct": 21.9
+  },
+  {
+   "year": 2006,
+   "total": 2262,
+   "limited": 503,
+   "limited_pct": 22.2
+  },
+  {
+   "year": 2007,
+   "total": 2550,
+   "limited": 631,
+   "limited_pct": 24.7
+  },
+  {
+   "year": 2008,
+   "total": 2661,
+   "limited": 666,
+   "limited_pct": 25.0
+  },
+  {
+   "year": 2009,
+   "total": 2719,
+   "limited": 674,
+   "limited_pct": 24.8
+  },
+  {
+   "year": 2010,
+   "total": 3133,
+   "limited": 931,
+   "limited_pct": 29.7
+  },
+  {
+   "year": 2011,
+   "total": 3611,
+   "limited": 1008,
+   "limited_pct": 27.9
+  },
+  {
+   "year": 2012,
+   "total": 3814,
+   "limited": 1155,
+   "limited_pct": 30.3
+  },
+  {
+   "year": 2013,
+   "total": 4009,
+   "limited": 1261,
+   "limited_pct": 31.5
+  },
+  {
+   "year": 2014,
+   "total": 4245,
+   "limited": 1355,
+   "limited_pct": 31.9
+  },
+  {
+   "year": 2015,
+   "total": 4052,
+   "limited": 1348,
+   "limited_pct": 33.3
+  },
+  {
+   "year": 2016,
+   "total": 4234,
+   "limited": 1454,
+   "limited_pct": 34.3
+  },
+  {
+   "year": 2017,
+   "total": 4411,
+   "limited": 1539,
+   "limited_pct": 34.9
+  },
+  {
+   "year": 2018,
+   "total": 4444,
+   "limited": 1679,
+   "limited_pct": 37.8
+  },
+  {
+   "year": 2019,
+   "total": 4628,
+   "limited": 1825,
+   "limited_pct": 39.4
+  },
+  {
+   "year": 2020,
+   "total": 4733,
+   "limited": 1979,
+   "limited_pct": 41.8
+  },
+  {
+   "year": 2021,
+   "total": 4998,
+   "limited": 2292,
+   "limited_pct": 45.9
+  },
+  {
+   "year": 2022,
+   "total": 5586,
+   "limited": 2427,
+   "limited_pct": 43.4
+  },
+  {
+   "year": 2023,
+   "total": 5581,
+   "limited": 2455,
+   "limited_pct": 44.0
+  },
+  {
+   "year": 2024,
+   "total": 5503,
+   "limited": 2348,
+   "limited_pct": 42.7
+  },
+  {
+   "year": 2025,
+   "total": 5399,
+   "limited": 2253,
+   "limited_pct": 41.7
+  }
+ ],
+ "meta": {
+  "source": "Discogs API, counts collected 27 Sep 2026, style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-25"
+ }
+}

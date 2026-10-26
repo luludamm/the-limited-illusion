@@ -1,0 +1,325 @@
+{
+ "decades": [
+  {
+   "decade": "1990s",
+   "albums": 237,
+   "median_designs": 6.0,
+   "median_versions": 6.0,
+   "median_countries": 2.0,
+   "colour_pct": 19.6,
+   "limited_pct": 7.7
+  },
+  {
+   "decade": "2000s",
+   "albums": 104,
+   "median_designs": 6.0,
+   "median_versions": 6.0,
+   "median_countries": 1.0,
+   "colour_pct": 60.1,
+   "limited_pct": 28.7
+  },
+  {
+   "decade": "2010s",
+   "albums": 485,
+   "median_designs": 6.0,
+   "median_versions": 6.0,
+   "median_countries": 1.0,
+   "colour_pct": 63.3,
+   "limited_pct": 38.7
+  },
+  {
+   "decade": "2020s",
+   "albums": 590,
+   "median_designs": 6.0,
+   "median_versions": 6.0,
+   "median_countries": 2.0,
+   "colour_pct": 70.5,
+   "limited_pct": 55.6
+  }
+ ],
+ "five_plus_pct_by_year": [
+  {
+   "year": 1990,
+   "pct": 7.1
+  },
+  {
+   "year": 1991,
+   "pct": 5.8
+  },
+  {
+   "year": 1992,
+   "pct": 4.5
+  },
+  {
+   "year": 1993,
+   "pct": 0.5
+  },
+  {
+   "year": 1994,
+   "pct": 1.2
+  },
+  {
+   "year": 1995,
+   "pct": 0.4
+  },
+  {
+   "year": 1996,
+   "pct": 0.5
+  },
+  {
+   "year": 1997,
+   "pct": 0.6
+  },
+  {
+   "year": 1998,
+   "pct": 0.4
+  },
+  {
+   "year": 1999,
+   "pct": 0.8
+  },
+  {
+   "year": 2000,
+   "pct": 1.1
+  },
+  {
+   "year": 2001,
+   "pct": 0.5
+  },
+  {
+   "year": 2002,
+   "pct": 0.8
+  },
+  {
+   "year": 2003,
+   "pct": 1.6
+  },
+  {
+   "year": 2004,
+   "pct": 0.9
+  },
+  {
+   "year": 2005,
+   "pct": 1.0
+  },
+  {
+   "year": 2006,
+   "pct": 0.7
+  },
+  {
+   "year": 2007,
+   "pct": 0.9
+  },
+  {
+   "year": 2008,
+   "pct": 0.9
+  },
+  {
+   "year": 2009,
+   "pct": 1.5
+  },
+  {
+   "year": 2010,
+   "pct": 1.7
+  },
+  {
+   "year": 2011,
+   "pct": 1.6
+  },
+  {
+   "year": 2012,
+   "pct": 1.9
+  },
+  {
+   "year": 2013,
+   "pct": 2.8
+  },
+  {
+   "year": 2014,
+   "pct": 3.6
+  },
+  {
+   "year": 2015,
+   "pct": 2.1
+  },
+  {
+   "year": 2016,
+   "pct": 2.5
+  },
+  {
+   "year": 2017,
+   "pct": 2.7
+  },
+  {
+   "year": 2018,
+   "pct": 2.8
+  },
+  {
+   "year": 2019,
+   "pct": 2.8
+  },
+  {
+   "year": 2020,
+   "pct": 4.2
+  },
+  {
+   "year": 2021,
+   "pct": 5.2
+  },
+  {
+   "year": 2022,
+   "pct": 4.3
+  },
+  {
+   "year": 2023,
+   "pct": 3.9
+  },
+  {
+   "year": 2024,
+   "pct": 4.4
+  },
+  {
+   "year": 2025,
+   "pct": 4.2
+  }
+ ],
+ "examples": [
+  {
+   "decade": "1990s",
+   "artist": "The Stone Roses",
+   "title": "One Love",
+   "year": 1990,
+   "versions": 20,
+   "designs": 18,
+   "limited": 6,
+   "countries": 6,
+   "colour": 0
+  },
+  {
+   "decade": "1990s",
+   "artist": "Inspiral Carpets",
+   "title": "This Is How It Feels",
+   "year": 1990,
+   "versions": 17,
+   "designs": 16,
+   "limited": 1,
+   "countries": 8,
+   "colour": 0
+  },
+  {
+   "decade": "1990s",
+   "artist": "Inspiral Carpets",
+   "title": "Caravan",
+   "year": 1991,
+   "versions": 18,
+   "designs": 16,
+   "limited": 0,
+   "countries": 7,
+   "colour": 0
+  },
+  {
+   "decade": "2000s",
+   "artist": "The Blood Brothers",
+   "title": "Crimes",
+   "year": 2004,
+   "versions": 15,
+   "designs": 15,
+   "limited": 1,
+   "countries": 1,
+   "colour": 11
+  },
+  {
+   "decade": "2000s",
+   "artist": "Portugal. The Man",
+   "title": "The Satanic Satanist",
+   "year": 2009,
+   "versions": 15,
+   "designs": 14,
+   "limited": 6,
+   "countries": 2,
+   "colour": 11
+  },
+  {
+   "decade": "2000s",
+   "artist": "Saves The Day",
+   "title": "Under The Boards",
+   "year": 2008,
+   "versions": 12,
+   "designs": 12,
+   "limited": 2,
+   "countries": 3,
+   "colour": 9
+  },
+  {
+   "decade": "2010s",
+   "artist": "Dads (2)",
+   "title": "Pretty Good",
+   "year": 2013,
+   "versions": 17,
+   "designs": 17,
+   "limited": 12,
+   "countries": 2,
+   "colour": 15
+  },
+  {
+   "decade": "2010s",
+   "artist": "Father John Misty",
+   "title": "Pure Comedy",
+   "year": 2017,
+   "versions": 19,
+   "designs": 17,
+   "limited": 5,
+   "countries": 3,
+   "colour": 11
+  },
+  {
+   "decade": "2010s",
+   "artist": "Camp Cope",
+   "title": "How To Socialise & Make Friends",
+   "year": 2018,
+   "versions": 16,
+   "designs": 15,
+   "limited": 6,
+   "countries": 4,
+   "colour": 14
+  },
+  {
+   "decade": "2020s",
+   "artist": "Twenty One Pilots",
+   "title": "Breach",
+   "year": 2025,
+   "versions": 29,
+   "designs": 21,
+   "limited": 18,
+   "countries": 5,
+   "colour": 22
+  },
+  {
+   "decade": "2020s",
+   "artist": "boygenius",
+   "title": "The Record",
+   "year": 2023,
+   "versions": 19,
+   "designs": 16,
+   "limited": 12,
+   "countries": 7,
+   "colour": 14
+  },
+  {
+   "decade": "2020s",
+   "artist": "Piebald",
+   "title": "We Are The Only Friends We Have",
+   "year": 2025,
+   "versions": 15,
+   "designs": 15,
+   "limited": 10,
+   "countries": 2,
+   "colour": 14
+  }
+ ],
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-25"
+ }
+}

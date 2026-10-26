@@ -1,0 +1,232 @@
+{
+ "album": {
+  "artist": "boygenius",
+  "title": "the record",
+  "year": 2023,
+  "master_id": 3038081
+ },
+ "releases": [
+  {
+   "release_id": 36320077,
+   "country": "US",
+   "format": "LP; Album; Test Pressing",
+   "colour_text": "",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": true,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 27415872,
+   "country": "US",
+   "format": "LP; Album; Test Pressing; White Label",
+   "colour_text": "Rejected",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": true,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 33211341,
+   "country": "US",
+   "format": "LP; Album; Stereo",
+   "colour_text": "Orange Vinyl",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 29797471,
+   "country": "Europe",
+   "format": "LP; Album",
+   "colour_text": "Gatefold",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": "BOYGENIUS the record 00602455066077"
+  },
+  {
+   "release_id": 26785574,
+   "country": "US",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Custard Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26751314,
+   "country": "North America (inc Mexico)",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Silver",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26684951,
+   "country": "US",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Blue [Blue Jay]",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26684918,
+   "country": "USA & Canada",
+   "format": "LP; Album",
+   "colour_text": "",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26596523,
+   "country": "Europe",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Clear",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [
+    "500 copies of this release were released with a numbered japanese style obi strip and sold by Assai Records as part of the Assai Obi Editions series."
+   ],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26604833,
+   "country": "Worldwide",
+   "format": "LP; Album",
+   "colour_text": "Gatefold",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26603729,
+   "country": "Europe",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Beige Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [
+    "Limited to 2000 copies."
+   ],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26601641,
+   "country": "",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Blue [Blue Jay]",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26601599,
+   "country": "UK & Europe",
+   "format": "LP; Album; Limited Edition; Stereo",
+   "colour_text": "Custard Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26601422,
+   "country": "",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Silver",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26599718,
+   "country": "Worldwide",
+   "format": "LP; Album; Limited Edition; Stereo",
+   "colour_text": "Orange Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": "BOYGENIUS / the record / RETAILER EXCLUSIVE / Limited Edition Orange Swirl Vinyl / 00602455091758"
+  },
+  {
+   "release_id": 26597252,
+   "country": "US",
+   "format": "LP; Album",
+   "colour_text": "Clear",
+   "limited": false,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26610605,
+   "country": "USA & Canada",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Orange Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26621405,
+   "country": "US",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Beige & Pink Swirl",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [
+    "Previously stated “limited to 2,000,” though UO has since removed the quantity amount from the product description."
+   ],
+   "hype_sticker": null
+  },
+  {
+   "release_id": 26756471,
+   "country": "Japan",
+   "format": "LP; Album; Limited Edition",
+   "colour_text": "Beige & Pink Swirl [Bone], Obi",
+   "limited": true,
+   "numbered": false,
+   "test_pressing": false,
+   "quantity_mentions": [
+    "Limited to 250."
+   ],
+   "hype_sticker": null
+  }
+ ],
+ "meta": {
+  "source": "Discogs data dump, 1 Oct 2026 (CC0), style Indie Rock + format Vinyl, 1990-2025",
+  "notebook": "02_analysis.ipynb",
+  "exported": "2026-10-25"
+ }
+}
